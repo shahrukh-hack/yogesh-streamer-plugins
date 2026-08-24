@@ -8,7 +8,7 @@
         "status":  1,
         "language":  "en",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Anime",
@@ -29,7 +29,7 @@
         "status":  1,
         "language":  "en",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Anime",
@@ -50,7 +50,7 @@
         "status":  3,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Anime",
@@ -65,7 +65,7 @@
         "name":  "BilibiliProvider"
     },
     {
-        "iconUrl":  "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CastleTvProvider/icon.png",
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "fileHash":  "sha256-bdbac0422d99d59ba1003ca67ebb79bb298d1302f5a47e7008c5476fd3ec2094",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
@@ -73,7 +73,7 @@
         "status":  1,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Movie",
@@ -94,7 +94,7 @@
         "status":  1,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Movie",
@@ -107,48 +107,6 @@
         "name":  "CineTvProvider"
     },
     {
-        "iconUrl":  "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CNC%20Verse/icon.png",
-        "fileHash":  "sha256-b72e7802bb68ecab7a599a1a744cd52321d230256485ba3125413b725e42a0b1",
-        "apiVersion":  1,
-        "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize":  98583,
-        "status":  1,
-        "language":  "ta",
-        "authors":  [
-                        "NivinCNC"
-                    ],
-        "tvTypes":  [
-                        "Movie",
-                        "TvSeries"
-                    ],
-        "version":  108,
-        "internalName":  "CNC Verse",
-        "description":  "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
-        "url":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/CNC Verse.cs3",
-        "name":  "CNC Verse"
-    },
-    {
-        "iconUrl":  "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CNC%20Verse%20Mobile/logo.jpeg",
-        "fileHash":  "sha256-5f8412d67561a43c8a9dc964b52edca57884ee0525253dc680680ff4376c67fd",
-        "apiVersion":  1,
-        "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize":  91398,
-        "status":  1,
-        "language":  "ta",
-        "authors":  [
-                        "NivinCNC"
-                    ],
-        "tvTypes":  [
-                        "Movie",
-                        "TvSeries"
-                    ],
-        "version":  7,
-        "internalName":  "CNC Verse Mobile",
-        "description":  "NetMirror Mobile API",
-        "url":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/CNC Verse Mobile.cs3",
-        "name":  "CNC Verse Mobile"
-    },
-    {
         "iconUrl":  "https://cricfy.pro/wp-content/uploads/2024/11/cropped-cricfytv-2.png",
         "fileHash":  "sha256-1f223766f7ab77a22b249efe4b2d039e680c2b6b8524931e92b7fa4a6987232d",
         "apiVersion":  1,
@@ -157,7 +115,7 @@
         "status":  1,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Live"
@@ -177,7 +135,7 @@
         "status":  1,
         "language":  "hi",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "TvSeries"
@@ -189,7 +147,7 @@
         "name":  "DesiSerialsProvider"
     },
     {
-        "iconUrl":  "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/DoFlixProvider/icon.png",
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "fileHash":  "sha256-6135e98ee48ba721b606085bb9fbe17396257ed9aef217b1b9b0ea67c6f676f9",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
@@ -197,7 +155,7 @@
         "status":  0,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "TvSeries",
@@ -210,7 +168,7 @@
         "name":  "DoFlixProvider"
     },
     {
-        "iconUrl":  "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/heads/master/Logos/EinthusanProvider/icon.png",
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "fileHash":  "sha256-10b8d7f421c65f26456da731e5d478a575ff6af9dfa21380fc33c59bb093778c",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
@@ -218,7 +176,7 @@
         "status":  1,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Movie"
@@ -238,7 +196,7 @@
         "status":  1,
         "language":  "en",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Others"
@@ -258,7 +216,7 @@
         "status":  0,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Movies",
@@ -279,7 +237,7 @@
         "status":  1,
         "language":  "ru",
         "authors":  [
-                        "Hexated, NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "AsianDrama",
@@ -301,7 +259,7 @@
         "status":  1,
         "language":  "en",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Others"
@@ -321,7 +279,7 @@
         "status":  1,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Live"
@@ -341,7 +299,7 @@
         "status":  1,
         "language":  "en",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Live"
@@ -353,7 +311,7 @@
         "name":  "M3UPlaylistPlayerProvider"
     },
     {
-        "iconUrl":  "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/Logos/MLSBD-Logo.png",
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "fileHash":  "sha256-0c9e1df2b81b11396de7ed58f07a5a0ae8479d23a3b3035f5df4eb155bb86819",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
@@ -361,7 +319,7 @@
         "status":  1,
         "language":  "bn",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Movie",
@@ -376,7 +334,7 @@
         "name":  "MLSBDProvider"
     },
     {
-        "iconUrl":  "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MovieBoxProvider/icon.png",
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "fileHash":  "sha256-ad242e2a3eacf2bdda7817c00720e8cf00273068b307c9f3d54b463c878c1416",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
@@ -384,7 +342,7 @@
         "status":  1,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Movie",
@@ -397,7 +355,7 @@
         "name":  "MovieBoxProvider"
     },
     {
-        "iconUrl":  "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MovieBoxProviderIN/icon.png",
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "fileHash":  "sha256-0c0bce1ac01fd2c3a28048e8a2427bb6317ab5ed7e91d4b8d4dd03befce08ac2",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
@@ -405,7 +363,7 @@
         "status":  1,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Movie",
@@ -418,7 +376,7 @@
         "name":  "MovieBoxProviderIN"
     },
     {
-        "iconUrl":  "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/Logos/movielinkbd.webp",
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "fileHash":  "sha256-1a1f41d9a00e2fdc7674b9d4bb2d31379d6cf9c3720f72e1cc484172d638bd4f",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
@@ -426,7 +384,7 @@
         "status":  1,
         "language":  "bn",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Movie",
@@ -441,7 +399,7 @@
         "name":  "MovieLinkBDProvider"
     },
     {
-        "iconUrl":  "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/heads/master/Logos/MoviezwapProvider/icon.png",
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "fileHash":  "sha256-3307257e0de0ee86ee57742ef130b263d614088083bba53e9facdfed9f13c410",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
@@ -449,7 +407,7 @@
         "status":  1,
         "language":  "te",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Movie"
@@ -461,7 +419,7 @@
         "name":  "MoviezwapProvider"
     },
     {
-        "iconUrl":  "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/Logos/PikashowProvider/logo.png",
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "fileHash":  "sha256-9f40b775192fbb65c7c9e9d0f43db0236f1c72333157af672793cdf2ef1cb751",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
@@ -469,7 +427,7 @@
         "status":  1,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Movie",
@@ -482,7 +440,7 @@
         "name":  "PikashowProvider"
     },
     {
-        "iconUrl":  "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/Logos/PlayFyTvProvider/playfy-tv-4.webp",
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "fileHash":  "sha256-133635f59ab7dc5b3e9d9c678fea99c4a4fc7986cb3c38bd680f99d61c858192",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
@@ -490,7 +448,7 @@
         "status":  1,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Live"
@@ -502,7 +460,7 @@
         "name":  "PlayFyProvider"
     },
     {
-        "iconUrl":  "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/Logos/PlayZTVProvider/logo.jpg",
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "fileHash":  "sha256-a66d99fab3f733bc75664bfd7f85a42d0e355828f7a79bd69bb0eb872424da69",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
@@ -510,7 +468,7 @@
         "status":  1,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Live"
@@ -530,7 +488,7 @@
         "status":  1,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Live"
@@ -542,7 +500,7 @@
         "name":  "RadioIndiaProvider"
     },
     {
-        "iconUrl":  "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/Rtally/icon.png",
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "fileHash":  "sha256-50dc308a2f2a3d4f539e315a2cd0efa91dddcdf02cdaf559b57f16b74d3be271",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
@@ -550,7 +508,7 @@
         "status":  1,
         "language":  "ta",
         "authors":  [
-                        "Redowan, NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Movie",
@@ -574,7 +532,7 @@
         "status":  1,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Live"
@@ -594,7 +552,7 @@
         "status":  1,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Live"
@@ -614,7 +572,7 @@
         "status":  1,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Movie",
@@ -628,27 +586,7 @@
         "name":  "StreamFlixProvider"
     },
     {
-        "iconUrl":  "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CNC%20Verse/icon.png",
-        "fileHash":  "sha256-45bbf0b5b2f1b0177ce2e331b511187ea0bbda68a58c5d2373c03a37e69072d0",
-        "apiVersion":  1,
-        "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize":  17434,
-        "status":  1,
-        "authors":  [
-                        "NivinCNC"
-                    ],
-        "tvTypes":  [
-                        "Movie",
-                        "TvSeries"
-                    ],
-        "version":  14,
-        "internalName":  "SubscriptionManager",
-        "description":  "Manage your CNCVerse subscription — remove ads with a premium plan",
-        "url":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/SubscriptionManager.cs3",
-        "name":  "SubscriptionManager"
-    },
-    {
-        "iconUrl":  "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/TamilDhoolProvider/icon.png",
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "fileHash":  "sha256-05bd33a046a28362db72d9942fc004d7f93a926115a7e8b91fcbd80dc1485b7a",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
@@ -656,7 +594,7 @@
         "status":  1,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "TvSeries"
@@ -676,7 +614,7 @@
         "status":  1,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Movies"
@@ -688,7 +626,7 @@
         "name":  "Tamilian"
     },
     {
-        "iconUrl":  "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/TamilUltraProvider/icon.png",
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "fileHash":  "sha256-06db8adafa5cd07d2be618d3adf4f60c444dd0491cc58e146ddbc5c26377ea91",
         "apiVersion":  1,
         "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
@@ -696,7 +634,7 @@
         "status":  1,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Live"
@@ -716,7 +654,7 @@
         "status":  1,
         "language":  "en",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "Movie",
@@ -737,7 +675,7 @@
         "status":  1,
         "language":  "ta",
         "authors":  [
-                        "NivinCNC"
+                        "Yogesh"
                     ],
         "tvTypes":  [
                         "TvSeries",
