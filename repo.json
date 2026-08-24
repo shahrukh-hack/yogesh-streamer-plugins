@@ -1,0 +1,9 @@
+{
+  "name": "Yogesh Streamer Official Repository",
+  "description": "Official verified extensions and scrapers for Yogesh Streamer",
+  "manifestVersion": 1,
+  "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
+  "pluginLists": [
+    "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/master/plugins.json"
+  ]
+}
