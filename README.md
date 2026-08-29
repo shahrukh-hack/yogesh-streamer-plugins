@@ -1,51 +1,74 @@
 # Yogesh Streamer Official Extensions Repository
 
 [![Repository Status](https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge&logo=github)](https://github.com/shahrukh-hack/yogesh-streamer-plugins)
-[![Extensions Count](https://img.shields.io/badge/Extensions-36_Verified-2563EB?style=for-the-badge)](https://github.com/shahrukh-hack/yogesh-streamer-plugins)
+[![Extensions Count](https://img.shields.io/badge/Extensions-40_Verified-2563EB?style=for-the-badge)](https://github.com/shahrukh-hack/yogesh-streamer-plugins)
+[![App Companion](https://img.shields.io/badge/App-Yogesh%20Streamer%20v5.2.5-7C3AED?style=for-the-badge&logo=android)](https://github.com/shahrukh-hack/yogesh-streamer)
 
-Official community scraping and metadata parsing modules for **[Yogesh Streamer](https://github.com/shahrukh-hack/yogesh-streamer)**.
+Official modular scraping, metadata parsing, and media streaming extensions for **[Yogesh Streamer](https://github.com/shahrukh-hack/yogesh-streamer)** (compatible with CloudStream architecture, CNCV, and PhisherRepo plugin formats).
 
 ---
 
 ## 📥 Repository URL
 
-To add all 36 verified modules in **Yogesh Streamer**:
+To add all 40 verified modules in **Yogesh Streamer**:
 
-1. Open **Yogesh Streamer > Settings > Extensions**.
+1. Open **Yogesh Streamer → Settings → Extensions**.
 2. Tap **Add Repository** (or **`+`**).
 3. Paste the following URL:
 ```text
 https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/repo.json
 ```
-4. Tap **Download**.
+4. Tap **Download** to load all verified streaming plugins.
+
+---
+
+## 🎬 Included Verified Modules (40 Extensions)
+
+### 1. 🏆 Live Sports & Live TV (Direct HLS / M3U8 Streams)
+* **`CastleTvProvider`**: Default active provider. 1000+ Indian Live TV & Entertainment channels.
+* **`CricifyProvider`**: Dedicated live cricket streams, IPL, T20, and ODI match feeds.
+* **`SKTechProvider`**: Multi-bitrate live sports streams (Sony Ten, Star Sports, Willow, Sky Sports).
+* **`SportzxProvider`**: International Football, Premier League, and Champions League live events.
+* **`PublicSportsIPTV`**: Aggregated worldwide sports IPTV playlist.
+* **`LivXowProvider`**: Indian regional Live TV channels & news streams.
+* **`M3UPlaylistPlayerProvider`**: Custom external `.m3u` / `.m3u8` playlist loader.
+* **`RadioIndiaProvider`**: All-India Radio and live FM channels.
+
+### 2. 🍿 Movies, OTT Mirrors & TV Shows
+* **`Netmirror`**: High-speed Netflix, Prime Video, Disney+ Hotstar, and JioCinema mirror.
+* **`MovieBoxProvider` / `MovieBoxProviderIN`**: Bollywood, Hollywood, and South Indian cinema.
+* **`Desicinemas`**: Fast Bollywood releases with direct StreamTape / VidHide streams.
+* **`Watch32`**: Hollywood blockbusters with multi-language subtitle tracks.
+* **`HDhub4u`**: Bollywood & South Indian cinema with HubCloud and direct PixelDrain API resolvers.
+* **`VegaMovies`**: 4K HDR & Dual Audio releases with direct cloud streams.
+* **`Bollyflix`**: 1080p fast Hindi cinema and web series.
+* **`UHDmoviesProvider`**: 4K Ultra HD and Remux direct cloud streams.
+* **`StreamFlixProvider` / `PikashowProvider` / `DoFlixProvider` / `CineTvProvider`**: Multi-server Indian and global cinema.
+
+### 3. 🇮🇳 Regional Language Cinema & Daily Serials
+* **`EinthusanProvider`**: Tamil, Telugu, Malayalam, and Kannada cinema.
+* **`TamilDhoolProvider`**: Daily serials from Sun TV, Vijay TV, and Zee Tamil.
+* **`DesiSerialsProvider`**: Daily serials from Star Plus, Sony TV, and Zee TV.
+* **`Tamilian` / `TamilUltraProvider`**: Kollywood HD releases and Tamil web series.
+* **`MoviezwapProvider`**: Tollywood HD Telugu releases.
+* **`MLSBDProvider` / `MovieLinkBDProvider`**: Bengali cinema and dubbed movies.
+
+### 4. 🎌 Anime & Audiobooks
+* **`AniKoto` / `AnimeSuge` / `BilibiliProvider`**: Multi-audio and subbed anime series.
+* **`XonProvider`**: Multi-language anime and cartoons (Tamil, Hindi, Telugu, English).
+* **`GoldenAudiobook` / `LibriVoxAudiobook`**: English full-length audiobooks and public domain classics.
+
+---
+
+## 📜 Extension Changelog & Stream Decoders
+
+* **HubCloud / GDFlix / DriveSeed**: Updated token parsing for modern cloud domains (`hubcloud.ink`, `hubcloud.lol`, `hubcloud.art`, `hubcloud.dad`).
+* **PixelDrain API Direct Stream**: High-speed direct streaming bypassing timer countdowns.
+* **BuzzServer Redirect Resolution**: Handled `hx-redirect` and `location` headers directly.
 
 ---
 
 ## ⚖️ Legal Disclaimer & Policy Compliance
 
-> [!IMPORTANT]
-> **PLEASE READ CAREFULLY BEFORE USE:**
-
-1. **Scraping & Indexing Only**:
-   * All modules in this repository are **client-side web scrapers and metadata parsers** written for educational, research, and data aggregation purposes.
-   * These scripts simply parse publicly accessible third-party HTML and API endpoints on the open internet (similar to a standard web browser or search engine).
-
-2. **No Media Hosting / Zero Storage**:
-   * **This repository does not host, store, upload, cache, archive, broadcast, or transmit any video, audio, media files, or copyrighted material on any servers.**
-   * No media content passes through or is served by this repository.
-
-3. **Third-Party Content**:
-   * All media playback and streaming occur directly between the end-user's device and external, independent third-party hosts.
-   * The authors and maintainers of this repository have no affiliation with, control over, or responsibility for the availability, legality, or content of third-party external websites.
-
-4. **Non-Commercial & Educational**:
-   * This project is completely non-commercial and open-source. Users are solely responsible for ensuring compliance with all local laws and the terms of service of any third-party websites they access.
-
----
-
-## 🛠️ Included Modules
-* **Live Sports & Cricket**: `CricifyProvider`, `SportzxProvider`
-* **Movies & TV Shows**: `StreamFlixProvider`, `PikashowProvider`, `CastleTvProvider`, `DoFlixProvider`, `EinthusanProvider`, `MovieBoxProviderIN`, `Tamilian`, `Watch32`
-* **Indian Daily Serials**: `DesiSerialsProvider`, `TamilDhoolProvider`
-* **Live TV & Radio**: `PlayZTVProvider`, `PlayFyProvider`, `TamilUltraProvider`, `RadioIndiaProvider`, `M3UPlaylistPlayerProvider`
-* **Multi-Language Anime & Audiobooks**: `XonProvider`, `AniKoto`, `BilibiliProvider`, `GoldenAudiobook`, `LibriVoxAudiobook`
+> [!NOTE]
+> All modules in this repository are client-side metadata parsers and web scrapers written for research and aggregation purposes. This repository does not host, store, upload, cache, archive, broadcast, or transmit any video, audio, media files, or copyrighted material on any servers.
