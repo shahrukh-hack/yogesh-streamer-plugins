@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "iconUrl":  "https://anikototv.to/AnikotoTheme/assets/images/favicon.png",
         "fileHash":  "sha256-a4f9dd580d475e62dad9227dec7def8a0ab98d19e16517fe84431c2e9b4bcfea",
@@ -687,5 +687,144 @@
         "description":  "Xon Provider for Anime and Cartoons - Tamil, Hindi, Telugu, English, Japanese",
         "url":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/XonProvider.cs3",
         "name":  "XonProvider"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
+        "version":  1,
+        "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "fileSize":  83902,
+        "apiVersion":  1,
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "name":  "Netmirror (Netflix/Prime/Hotstar)",
+        "language":  "hi",
+        "authors":  [
+                        "Yogesh"
+                    ],
+        "url":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Netmirror.cs3",
+        "internalName":  "Netmirror",
+        "status":  1,
+        "fileHash":  "sha256-e64f3bf8e62dd7bc25e3fd1900524f8f730e50807744eac9c5de38367762f057"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
+        "version":  1,
+        "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "fileSize":  38129,
+        "apiVersion":  1,
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "name":  "Bollyflix (Fast Hindi HD)",
+        "language":  "hi",
+        "authors":  [
+                        "Yogesh"
+                    ],
+        "url":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Bollyflix.cs3",
+        "internalName":  "Bollyflix",
+        "status":  1,
+        "fileHash":  "sha256-507b486b195b98903b0cec0fca811c27fdff6cf200f6f94a662c64dd8abe0e59"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
+        "version":  1,
+        "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "fileSize":  41565,
+        "apiVersion":  1,
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "name":  "VegaMovies (4K HDR \u0026 Dual Audio)",
+        "language":  "hi",
+        "authors":  [
+                        "Yogesh"
+                    ],
+        "url":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/VegaMovies.cs3",
+        "internalName":  "VegaMovies",
+        "status":  1,
+        "fileHash":  "sha256-b78635ef4f2f66c134184552fe5e4956cc02ec1c5ce6d6811cccfd3747367883"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
+        "version":  1,
+        "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "fileSize":  79824,
+        "apiVersion":  1,
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "name":  "HDhub4u (Bollywood \u0026 South)",
+        "language":  "hi",
+        "authors":  [
+                        "Yogesh"
+                    ],
+        "url":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/HDhub4u.cs3",
+        "internalName":  "HDhub4u",
+        "status":  1,
+        "fileHash":  "sha256-0af4ef03c2b6cf25f4d803987b08becaca18cdc1118fad2948306cdee033d546"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
+        "version":  1,
+        "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "fileSize":  52055,
+        "apiVersion":  1,
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "name":  "UHDmovies (4K Ultra HD)",
+        "language":  "hi",
+        "authors":  [
+                        "Yogesh"
+                    ],
+        "url":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/UHDmoviesProvider.cs3",
+        "internalName":  "UHDmoviesProvider",
+        "status":  1,
+        "fileHash":  "sha256-c61672a5b588621d090a625b1f48e0216f28cc3c322759b5f6e59ac0c957b20a"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
+        "version":  1,
+        "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "fileSize":  40071,
+        "apiVersion":  1,
+        "tvTypes":  [
+                        "Movie",
+                        "TvSeries"
+                    ],
+        "name":  "Desicinemas (Hindi HD)",
+        "language":  "hi",
+        "authors":  [
+                        "Yogesh"
+                    ],
+        "url":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Desicinemas.cs3",
+        "internalName":  "Desicinemas",
+        "status":  1,
+        "fileHash":  "sha256-1144ec4fc9e99c9609c11401a9d48066a9d28547ad21f6609a5fdebfcf701e4b"
+    },
+    {
+        "iconUrl":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
+        "version":  1,
+        "repositoryUrl":  "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "fileSize":  23602,
+        "apiVersion":  1,
+        "tvTypes":  [
+                        "LiveStream"
+                    ],
+        "name":  "Public Sports IPTV (Live Cricket \u0026 Channels)",
+        "language":  "en",
+        "authors":  [
+                        "Yogesh"
+                    ],
+        "url":  "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/PublicSportsIPTV.cs3",
+        "internalName":  "PublicSportsIPTV",
+        "status":  1,
+        "fileHash":  "sha256-91856834cf500a6ec1d9ffda20d711f538932f3de0e4303e8a791ea9ee93c0d2"
     }
 ]
