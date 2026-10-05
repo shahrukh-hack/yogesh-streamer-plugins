@@ -1,0 +1,43 @@
+name: Daily Upstream Plugin Sync
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Midnight UTC every day
+  workflow_dispatch: # Manual run trigger
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: builds
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run Plugin Sync Engine
+        run: node sync-plugins.js
+
+      - name: Commit and Push to builds
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "chore: auto-sync plugin manifest and providers with upstream sources"
+            git push origin builds
+
+            git checkout master
+            git merge builds --no-edit -m "chore: merge upstream provider sync into master"
+            git push origin master
+          else
+            echo "No changes detected. Everything is up-to-date."
+          fi
