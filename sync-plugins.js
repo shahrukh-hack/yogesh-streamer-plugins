@@ -99,15 +99,26 @@ async function main() {
     let updatedCount = 0;
     const updateLog = [];
 
+const ALIAS_MAP = {
+    'Netmirror': ['CNC Verse', 'CNCVerse', 'Netmirror'],
+};
+
     for (const local of localPlugins) {
         // Find best match in upstream sources
         let bestCandidate = null;
         let bestSource = null;
 
+        const lookupNames = [
+            (local.internalName || '').toLowerCase(),
+            (local.name || '').toLowerCase(),
+            ...((ALIAS_MAP[local.internalName] || []).map(a => a.toLowerCase())),
+            ...((ALIAS_MAP[local.name] || []).map(a => a.toLowerCase()))
+        ];
+
         for (const { source, list } of upstreams) {
             const match = list.find(u => 
-                (u.internalName && u.internalName.toLowerCase() === local.internalName.toLowerCase()) ||
-                (u.name && u.name.toLowerCase() === local.name.toLowerCase())
+                (u.internalName && lookupNames.includes(u.internalName.toLowerCase())) ||
+                (u.name && lookupNames.includes(u.name.toLowerCase()))
             );
             if (match) {
                 if (!bestCandidate || match.version > bestCandidate.version) {
