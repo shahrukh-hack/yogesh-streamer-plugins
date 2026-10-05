@@ -38,6 +38,16 @@ https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/r
 
 ---
 
+## 🛠️ Maintainer Upstream Sync
+
+To automatically sync and update all 40 extensions with latest upstream fixes:
+```bash
+node sync-plugins.js
+```
+This downloads newer binaries, recomputes SHA-256 hashes, updates `plugins.json`, and syncs bundled core assets.
+
+---
+
 ## ⚖️ Legal Disclaimer & Policy Compliance
 
 > [!IMPORTANT]
