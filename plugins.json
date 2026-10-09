@@ -312,10 +312,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-325ba3020344f48e3d18b7f877b7eb9c3aad1dbf2b94dd74ed541507b151900f",
+        "fileHash": "sha256-56fd9198b2564731a63840fb28d181ba87819b9982a06ffb6783ec6c2727f1b0",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 114887,
+        "fileSize": 117689,
         "status": 1,
         "language": "bn",
         "authors": [
@@ -327,7 +327,7 @@
             "AnimeMovie",
             "AsianDrama"
         ],
-        "version": 33,
+        "version": 34,
         "internalName": "MLSBDProvider",
         "description": "The largest movie link store in Bangladesh",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/MLSBDProvider.cs3",
@@ -377,10 +377,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-51618ae3bd21d468bbeb47d7b661afc8f57e5417eab81d0d6267f739d383dd17",
+        "fileHash": "sha256-7248b4db35f359fc1e00f620ad567664ba088c373940d620062a7a2f3a251244",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 50778,
+        "fileSize": 57892,
         "status": 1,
         "language": "bn",
         "authors": [
@@ -392,7 +392,7 @@
             "AnimeMovie",
             "AsianDrama"
         ],
-        "version": 22,
+        "version": 24,
         "internalName": "MovieLinkBDProvider",
         "description": "MovieLinkBD - Largest Movie Download Site in Bangladesh",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/MovieLinkBDProvider.cs3",
@@ -501,10 +501,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-4e330da8d665137462760176e179b07c08b0f0c26ca6dbdca008d276a49ddaa2",
+        "fileHash": "sha256-f5df5457cef0b1847c05bad9f6b575e207714f02517a5ab74416ac0fa324c90a",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 43282,
+        "fileSize": 46067,
         "status": 1,
         "language": "ta",
         "authors": [
@@ -517,7 +517,7 @@
             "AnimeMovie",
             "AsianDrama"
         ],
-        "version": 49,
+        "version": 50,
         "internalName": "Rtally",
         "description": "Movie and TV Series provider",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Rtally.cs3",
@@ -587,10 +587,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-a3a57503562d9109a94d1a2cd4e720f3fa1f93530f6f7c102e65565b2f328fdc",
+        "fileHash": "sha256-f3d4a0c6f2a7f80f483844b58302da1d24ff151cbdd3aef0b63f043203db88d5",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 50202,
+        "fileSize": 53361,
         "status": 1,
         "language": "ta",
         "authors": [
@@ -599,7 +599,7 @@
         "tvTypes": [
             "TvSeries"
         ],
-        "version": 39,
+        "version": 40,
         "internalName": "TamilDhoolProvider",
         "description": "Tamil Tv Serial/Shows Provider",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/TamilDhoolProvider.cs3",
@@ -755,7 +755,7 @@
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "version": 57,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 122852,
+        "fileSize": 123618,
         "apiVersion": 1,
         "tvTypes": [
             "Movie",
@@ -769,13 +769,13 @@
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/HDhub4u.cs3",
         "internalName": "HDhub4u",
         "status": 1,
-        "fileHash": "sha256-ae9668b4de9849d1f60558f867ecc3a48dbe5a964b4f651b6e886bd42578a8eb"
+        "fileHash": "sha256-510a3e2abcb29f791ca53adfea38de37e2633747dc0181b2500e3587e0329ac5"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "version": 41,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 92605,
+        "fileSize": 93377,
         "apiVersion": 1,
         "tvTypes": [
             "Movie",
@@ -789,14 +789,14 @@
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/UHDmoviesProvider.cs3",
         "internalName": "UHDmoviesProvider",
         "status": 1,
-        "fileHash": "sha256-673d28324c2c9400d1386455cf3e3524d1963a6bf6ea853e50a974da05b066ce",
+        "fileHash": "sha256-9bc99ec06ee1dcdd76f1d0180d4df9c93e4fef4cd76b9470416e798dc8b36c87",
         "description": "Indian Multi-language 4K Provider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "version": 19,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 79698,
+        "fileSize": 80437,
         "apiVersion": 1,
         "tvTypes": [
             "Movie",
@@ -810,14 +810,14 @@
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Desicinemas.cs3",
         "internalName": "Desicinemas",
         "status": 1,
-        "fileHash": "sha256-c4df1a385632b1f45611e53ba64e61b949974b41192e5c53315e992396427682",
+        "fileHash": "sha256-2f467c8ad7e8375c97b0b0a2db389fa6a030ceb70e8684c4b25a1f82b0cf82f3",
         "description": "Contains BollyZone"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "version": 5,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 59680,
+        "fileSize": 60410,
         "apiVersion": 1,
         "tvTypes": [
             "LiveStream"
@@ -830,7 +830,7 @@
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/PublicSportsIPTV.cs3",
         "internalName": "PublicSportsIPTV",
         "status": 1,
-        "fileHash": "sha256-8d267d49111ce68b9bd6b0e3d6ae8df483053b408d91c21171170feba0209816",
+        "fileHash": "sha256-3eb7fd9e741668908622082b570e53b7958e48ceb161a1e701aa63a92ae909bf",
         "description": "Sports Live Streams (FanCode)"
     }
 ]
