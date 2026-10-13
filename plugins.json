@@ -377,10 +377,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-7248b4db35f359fc1e00f620ad567664ba088c373940d620062a7a2f3a251244",
+        "fileHash": "sha256-b4411c0074bcb255fce51235b5b0dd251ca0c81e8a250b75fb4b825b6c9f12fc",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 57892,
+        "fileSize": 58080,
         "status": 1,
         "language": "bn",
         "authors": [
@@ -392,7 +392,7 @@
             "AnimeMovie",
             "AsianDrama"
         ],
-        "version": 24,
+        "version": 25,
         "internalName": "MovieLinkBDProvider",
         "description": "MovieLinkBD - Largest Movie Download Site in Bangladesh",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/MovieLinkBDProvider.cs3",
@@ -755,7 +755,7 @@
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "version": 57,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 115559,
+        "fileSize": 139711,
         "apiVersion": 1,
         "tvTypes": [
             "Movie",
@@ -769,13 +769,13 @@
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/HDhub4u.cs3",
         "internalName": "HDhub4u",
         "status": 1,
-        "fileHash": "sha256-a572744692fb558723f03f19229851171a29de67d2cc30523588d6697bd61d67"
+        "fileHash": "sha256-6a044cadacea496d9247ade934df1520503f86b30bb8a909ee40a22908f6ce1e"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "version": 41,
+        "version": 42,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 85336,
+        "fileSize": 110993,
         "apiVersion": 1,
         "tvTypes": [
             "Movie",
@@ -789,14 +789,14 @@
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/UHDmoviesProvider.cs3",
         "internalName": "UHDmoviesProvider",
         "status": 1,
-        "fileHash": "sha256-5e6b8c57720a397a827d95ef4ea57e7a00489a1023ba57766aa607197700adeb",
+        "fileHash": "sha256-6c08e935cef2bf8ea4a67ed8e7f0f0a177b02f57a2e2e642eca72f93ed38d4cb",
         "description": "Indian Multi-language 4K Provider"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "version": 19,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 71186,
+        "fileSize": 95956,
         "apiVersion": 1,
         "tvTypes": [
             "Movie",
@@ -810,14 +810,14 @@
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Desicinemas.cs3",
         "internalName": "Desicinemas",
         "status": 1,
-        "fileHash": "sha256-af11ff05f1d3691b0a3271bd91041b47fab5bb36bec2ee961c10c7b4f88615d7",
+        "fileHash": "sha256-9d7b364affeca6350c9b6ad930d05bab63adc94153bb97412b9d927fc0c8cc2a",
         "description": "Contains BollyZone"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "version": 5,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 51340,
+        "fileSize": 76100,
         "apiVersion": 1,
         "tvTypes": [
             "LiveStream"
@@ -830,7 +830,7 @@
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/PublicSportsIPTV.cs3",
         "internalName": "PublicSportsIPTV",
         "status": 1,
-        "fileHash": "sha256-f577a35306438dd80e6b3c271ec44e9317484707d7dec68a1e42609d44b5ed18",
+        "fileHash": "sha256-edabed1b2e1ed24cc5837637f9d0c1886f4621f70bd320a1925d9aef2c434795",
         "description": "Sports Live Streams (FanCode)"
     }
 ]
