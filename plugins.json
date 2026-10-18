@@ -148,10 +148,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-762c68a468a8ba03bb847904f10ac8ca4842aa33e590848f5d782de7d4d2d771",
+        "fileHash": "sha256-2c79c118e17507cb3d35d549bdee444e478338fad7dc9b456ce700df92a31572",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 85344,
+        "fileSize": 98904,
         "status": 0,
         "language": "ta",
         "authors": [
@@ -161,7 +161,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 35,
+        "version": 37,
         "internalName": "DoFlixProvider",
         "description": "DoFlix Provider for Movies and TV Series",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/DoFlixProvider.cs3",
@@ -189,10 +189,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=goldenaudiobook.com/&sz=%size%",
-        "fileHash": "sha256-c3d0a5fd6e39ee64e0a497abd57047efd939278ccf840ef924f3e7ce2229031d",
+        "fileHash": "sha256-68eb43fd257fc4b02450689b80f5492e91aad5d33762e3581d2bed0a206ee350",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 37983,
+        "fileSize": 38072,
         "status": 1,
         "language": "en",
         "authors": [
@@ -201,7 +201,7 @@
         "tvTypes": [
             "Others"
         ],
-        "version": 33,
+        "version": 34,
         "internalName": "GoldenAudiobook",
         "description": "Audiobooks - Use Picture in Picture or VLC as external player",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/GoldenAudiobook.cs3",
@@ -230,10 +230,10 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=rezka.ag&sz=%size%",
-        "fileHash": "sha256-c041bc3c5f50ef029261885831258ef09f75cabc09f54ae3fbd251a86e082e32",
+        "fileHash": "sha256-ae3d7d50571b6c28c974c20e7b828371fa6b2ceae06f04925fbf5f6c77475957",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 59357,
+        "fileSize": 60123,
         "status": 1,
         "language": "ru",
         "authors": [
@@ -245,17 +245,17 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 35,
+        "version": 36,
         "internalName": "HDrezkaProvider",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/HDrezkaProvider.cs3",
         "name": "HDrezkaProvider"
     },
     {
         "iconUrl": "https://librivox.org/wp-content/themes/librivox/images/librivox-logo.png",
-        "fileHash": "sha256-d8bfa6f610ac84155e2c2f1f7ddb3f639c0741247ea963f17306885e3e89592c",
+        "fileHash": "sha256-71e7aac096b706b69c53cc2122750ff114e3274741f5807d866f37be1819a54b",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 35526,
+        "fileSize": 36205,
         "status": 1,
         "language": "en",
         "authors": [
@@ -264,7 +264,7 @@
         "tvTypes": [
             "Others"
         ],
-        "version": 33,
+        "version": 34,
         "internalName": "LibriVoxAudiobook",
         "description": "Audiobooks in public domain",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/LibriVoxAudiobook.cs3",
@@ -501,10 +501,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-f5df5457cef0b1847c05bad9f6b575e207714f02517a5ab74416ac0fa324c90a",
+        "fileHash": "sha256-e7ce19eaf309001ca0099f783190a10fe1514957cb6cfeceb28720e75d9d66a8",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 46067,
+        "fileSize": 110342,
         "status": 1,
         "language": "ta",
         "authors": [
@@ -517,7 +517,7 @@
             "AnimeMovie",
             "AsianDrama"
         ],
-        "version": 50,
+        "version": 51,
         "internalName": "Rtally",
         "description": "Movie and TV Series provider",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Rtally.cs3",
@@ -647,10 +647,10 @@
     },
     {
         "iconUrl": "https://editorialge.com/wp-content/uploads/2023/07/Watch32..jpg",
-        "fileHash": "sha256-6458eca31cd714259fb543e708c85db91424d838becb54d207965a923ecc0e5a",
+        "fileHash": "sha256-fac67d1362a2ae4bf85f5dc1e51c1875c1b584214699f472826f0e070263ae0c",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 51046,
+        "fileSize": 48222,
         "status": 1,
         "language": "en",
         "authors": [
@@ -660,7 +660,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 34,
+        "version": 35,
         "internalName": "Watch32",
         "description": "Watch32 is a Free Movies streaming site with over 10000 movies and TV-Series.",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Watch32.cs3",
