@@ -108,10 +108,10 @@
     },
     {
         "iconUrl": "https://cricfy.pro/wp-content/uploads/2024/11/cropped-cricfytv-2.png",
-        "fileHash": "sha256-c36b78630420569a3fdeb912963c9de47f5df1fe2b99a5a2bd7db51e8822d6ec",
+        "fileHash": "sha256-eb26c7aca8aec8da4fe7b90e5b22d052ea7f84f1f07d05e19f0eb6435b363222",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 117026,
+        "fileSize": 117310,
         "status": 1,
         "language": "ta",
         "authors": [
@@ -120,7 +120,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 71,
+        "version": 73,
         "internalName": "CricifyProvider",
         "description": "Watch Live sports and TV channels",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/CricifyProvider.cs3",
@@ -272,10 +272,10 @@
     },
     {
         "iconUrl": "https://www.livxow.site/logo.jpg",
-        "fileHash": "sha256-1c078966138490b7da7f48f7eb36d4c20b538c311016a5b7341ef1fbf91d0086",
+        "fileHash": "sha256-3e19b1a54c049d3fc13cfa3e820ab05cafd8586f6daab4f53f37b93f97daec7e",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 127205,
+        "fileSize": 127417,
         "status": 1,
         "language": "ta",
         "authors": [
@@ -284,7 +284,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 20,
+        "version": 22,
         "internalName": "LivXowProvider",
         "description": "Watch Live Sports and TV Channels via LivXow",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/LivXowProvider.cs3",
@@ -441,10 +441,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-365edb434209a559a3a7dfd7b6744b28831c137f2ef098fa418b08bfc1390250",
+        "fileHash": "sha256-33980145643ff96863f03e9b8e2768cc8bc3c236a77aa1adb1e2f7a5c35cb0c8",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 106982,
+        "fileSize": 107306,
         "status": 1,
         "language": "ta",
         "authors": [
@@ -453,7 +453,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 14,
+        "version": 16,
         "internalName": "PlayFyProvider",
         "description": "Watch Live sports and TV channels via PlayFy",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/PlayFyProvider.cs3",
@@ -461,10 +461,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-e6411013cca732e3f597f60493798b2c3841ed7d5d8ecdffa84a3248fae75b4c",
+        "fileHash": "sha256-be077d7bb04557a32b1820810b8b595a84d6fb59d1b4baa87e7d8dff813238c3",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 117275,
+        "fileSize": 117498,
         "status": 1,
         "language": "ta",
         "authors": [
@@ -473,7 +473,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 42,
+        "version": 44,
         "internalName": "PlayZTVProvider",
         "description": "Watch Live TV channels & sports via PlayZTV",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/PlayZTVProvider.cs3",
@@ -525,10 +525,10 @@
     },
     {
         "iconUrl": "https://sktechtv.org/wp-content/uploads/2026/05/sktechtv.webp",
-        "fileHash": "sha256-f7605368aff29d108c0975d23bddf4f98b3d6dae0662c5db3f5be0c76ab9150d",
+        "fileHash": "sha256-c24b0cf65fa5a492db6a8793d3f75a0769afb856f7f42194c242039e1de56eca",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 125231,
+        "fileSize": 125456,
         "status": 1,
         "language": "ta",
         "authors": [
@@ -537,7 +537,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 58,
+        "version": 60,
         "internalName": "SKTechProvider",
         "description": "Watch Live sports and TV channels via SK Tech",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/SKTechProvider.cs3",
@@ -545,10 +545,10 @@
     },
     {
         "iconUrl": "https://sportzxlive.com/wp-content/uploads/2026/04/cropped-logo-1-2048x1611-1-1024x806.png",
-        "fileHash": "sha256-62d24fa711dd5a9c0dec3e60b67ae5eaf2e3f7d71e6b5687039b65e70367b451",
+        "fileHash": "sha256-aefca8bcb6067424bdf507596ea05fac31613815faf9cb1529ceb206c67528e1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 123166,
+        "fileSize": 123413,
         "status": 1,
         "language": "ta",
         "authors": [
@@ -557,7 +557,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 26,
+        "version": 28,
         "internalName": "SportzxProvider",
         "description": "Watch Live Sports Events via SportzX",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/SportzxProvider.cs3",
