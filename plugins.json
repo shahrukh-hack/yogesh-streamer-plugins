@@ -711,9 +711,9 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "version": 10,
+        "version": 12,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 37886,
+        "fileSize": 47322,
         "apiVersion": 1,
         "tvTypes": [
             "Movie",
@@ -727,14 +727,14 @@
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Bollyflix.cs3",
         "internalName": "Bollyflix",
         "status": 1,
-        "fileHash": "sha256-3091f28d597c1985282f2728fa0ce2c91368e13ca938e6c32ab4af609bd94851",
+        "fileHash": "sha256-2e979901877039dde7ccc6b80074318c2697940a14faa9ba37d5952533e5e410",
         "description": "Movies and Series upto 4K"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "version": 10,
+        "version": 12,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 46082,
+        "fileSize": 46187,
         "apiVersion": 1,
         "tvTypes": [
             "Movie",
@@ -748,7 +748,7 @@
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/VegaMovies.cs3",
         "internalName": "VegaMovies",
         "status": 1,
-        "fileHash": "sha256-ff1643073589450816fa78156f50406a394df0dfe0c66a18272c07b0fb994adf",
+        "fileHash": "sha256-7001c61d5d877100960eeb767d512de98941373c0fc24e53cf177e7ae425bcb5",
         "description": " Ultimate Portal for HD Movies & Web Series"
     },
     {
