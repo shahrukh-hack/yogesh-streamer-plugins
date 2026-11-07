@@ -218,8 +218,9 @@ const ALIAS_MAP = {
         console.log('🔄 Triggering automated CS3 -> JSON reverse-engineering...');
         const { execSync } = require('child_process');
         execSync('python3 export_plugins_json.py || python export_plugins_json.py', { stdio: 'inherit', cwd: __dirname });
+        execSync('python3 generate_scrapers_json.py || python generate_scrapers_json.py', { stdio: 'inherit', cwd: __dirname });
     } catch(err) {
-        console.log('⚠️ Failed to run export_plugins_json.py:', err.message);
+        console.log('⚠️ Failed to run CS3 to JSON reverse-engineering:', err.message);
     }
 
     console.log('====================================================\n');
