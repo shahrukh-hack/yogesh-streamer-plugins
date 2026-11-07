@@ -1,7 +1,7 @@
 # Yogesh Streamer Official Extensions Repository
 
 [![Repository Status](https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge&logo=github)](https://github.com/shahrukh-hack/yogesh-streamer-plugins)
-[![Extensions Count](https://img.shields.io/badge/Extensions-40_Verified-2563EB?style=for-the-badge)](https://github.com/shahrukh-hack/yogesh-streamer-plugins)
+[![Extensions Count](https://img.shields.io/badge/Extensions-43_Verified-2563EB?style=for-the-badge)](https://github.com/shahrukh-hack/yogesh-streamer-plugins)
 [![App Companion](https://img.shields.io/badge/App-Yogesh%20Streamer-7C3AED?style=for-the-badge&logo=android)](https://github.com/shahrukh-hack/yogesh-streamer)
 
 Official modular scraping, metadata parsing, and media indexing extensions for **[Yogesh Streamer](https://github.com/shahrukh-hack/yogesh-streamer)**.
@@ -10,7 +10,7 @@ Official modular scraping, metadata parsing, and media indexing extensions for *
 
 ## 📥 Repository URL
 
-To add all 40 verified modules in **Yogesh Streamer**:
+To add all 43 verified modules in **Yogesh Streamer**:
 
 1. Open **Yogesh Streamer → Settings → Extensions**.
 2. Tap **Add Repository** (or **`+`**).
@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/r
 
 ---
 
-## 🎬 Module Categories (40 Extensions)
+## 🎬 Module Categories (43 Extensions)
 
 ### 1. 🏆 Live Sports & Live Feeds
 * Modular scrapers for live sports events, tournament match scoreboards, and live IPTV feeds.

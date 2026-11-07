@@ -19,6 +19,21 @@ const UPSTREAM_SOURCES = [
         name: 'MrXtron (Xtron)',
         baseUrl: 'https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds',
         manifestUrl: 'https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/plugins.json'
+    },
+    {
+        name: 'AllForU (RVRBEAST76)',
+        baseUrl: 'https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds',
+        manifestUrl: 'https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/plugins.json'
+    },
+    {
+        name: 'Megix-CSX (SaurabhKaperwan)',
+        baseUrl: 'https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds',
+        manifestUrl: 'https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/plugins.json'
+    },
+    {
+        name: 'Raghav (KSHITIJ8473)',
+        baseUrl: 'https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds',
+        manifestUrl: 'https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/plugins.json'
     }
 ];
 

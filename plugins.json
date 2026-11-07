@@ -271,26 +271,6 @@
         "name": "LibriVoxAudiobook"
     },
     {
-        "iconUrl": "https://www.livxow.site/logo.jpg",
-        "fileHash": "sha256-c57a0d6c12a298de09d1b5d8390573c4f8c6f856edf3cb0f669dbba2db81961b",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 127811,
-        "status": 1,
-        "language": "ta",
-        "authors": [
-            "Yogesh"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 25,
-        "internalName": "LivXowProvider",
-        "description": "Watch Live Sports and TV Channels via LivXow",
-        "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/LivXowProvider.cs3",
-        "name": "LivXowProvider"
-    },
-    {
         "iconUrl": "https://play-lh.googleusercontent.com/V4t4JeQV2Cu9u72hKuqOW5c0IfwcZuuVS1d9PF2uJsW3rlIq-aOMTrT5bABVGaAFTcM=w480-h960-rw",
         "fileHash": "sha256-1739a3f2f7b289eb51f73602feb9ac739545c6b5146c718258cb48ef0bcd7da7",
         "apiVersion": 1,
@@ -420,47 +400,6 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-1ea7c40ebcf1372b0df2182a41c554de0a4bd2c628fdc0ecfe3dd49e6e82fbc1",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 82072,
-        "status": 1,
-        "language": "ta",
-        "authors": [
-            "Yogesh"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 33,
-        "internalName": "PikashowProvider",
-        "description": "Stream movies and series from Pikashow",
-        "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/PikashowProvider.cs3",
-        "name": "PikashowProvider"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-e6a861d77f99b87e6e0dc6ba436fa407091be8b9916ac2869a13b8176e84b7d7",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 107930,
-        "status": 1,
-        "language": "ta",
-        "authors": [
-            "Yogesh"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 19,
-        "internalName": "PlayFyProvider",
-        "description": "Watch Live sports and TV channels via PlayFy",
-        "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/PlayFyProvider.cs3",
-        "name": "PlayFyProvider"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
         "fileHash": "sha256-18860301358cf5ae42c3bf21a4f3a6bc2da0cf5aec9c7aca6d1389be7147f9f4",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
@@ -522,26 +461,6 @@
         "description": "Movie and TV Series provider",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Rtally.cs3",
         "name": "Rtally"
-    },
-    {
-        "iconUrl": "https://sktechtv.org/wp-content/uploads/2026/05/sktechtv.webp",
-        "fileHash": "sha256-3f9686aea4bef9ea44885359255bc1165d3875b3ff18e5f001a20b74d51838b5",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 125890,
-        "status": 1,
-        "language": "ta",
-        "authors": [
-            "Yogesh"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 63,
-        "internalName": "SKTechProvider",
-        "description": "Watch Live sports and TV channels via SK Tech",
-        "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/SKTechProvider.cs3",
-        "name": "SKTechProvider"
     },
     {
         "iconUrl": "https://sportzxlive.com/wp-content/uploads/2026/04/cropped-logo-1-2048x1611-1-1024x806.png",
@@ -832,5 +751,138 @@
         "status": 1,
         "fileHash": "sha256-ce1b7a86e6072c0c97c3a0d7d58e27cc156cb9af5c5500fcc8110fdd4083f296",
         "description": "Sports Live Streams (FanCode)"
+    },
+    {
+        "name": "AnimeWorldIndia",
+        "internalName": "AnimeWorldIndia",
+        "version": 12,
+        "description": "Anime World India - Hindi, Tamil, Telugu Anime & Cartoons with multi-audio",
+        "authors": [
+            "raghav"
+        ],
+        "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AnimeWorldIndia.cs3",
+        "fileHash": "sha256-3c48b190e02f7584b7815140db9b610b6992e7440069fcc2d16d07d772c4f0d3",
+        "fileSize": 67987,
+        "status": 1,
+        "types": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://watchanimeworld.top/wp-content/uploads/AW_Smiley.png"
+    },
+    {
+        "name": "EliteStreams",
+        "internalName": "EliteStreams",
+        "version": 10,
+        "description": "Live sports and TV channels from JioTV+, Jio Hotstar, Sony LIV and FanCode",
+        "authors": [
+            "KSHITIJ8473"
+        ],
+        "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/EliteStreams.cs3",
+        "fileHash": "sha256-6641f6dd38f6055608d1938d0464cbc8662dcfdb1790d5a30fd5048cdfc1700a",
+        "fileSize": 58811,
+        "status": 1,
+        "types": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjVrQOYj-sTUXwbXmmIso7vR3mqtH_sxhXF69vtY5FXAK4M4iCaeLoatA&s=10"
+    },
+    {
+        "name": "AllOtt",
+        "internalName": "AllOtt",
+        "version": 8,
+        "description": "AllOtt - Netflix, Hotstar, Disney+ & Prime Video in ONE install (Tamil, English, Hindi & more)",
+        "authors": [
+            "AllForU"
+        ],
+        "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AllOtt.cs3",
+        "fileHash": "sha256-7927094d50371b23be30c136fe409b67ebc6e8f5a136e073605a4833f70438d8",
+        "fileSize": 144323,
+        "status": 1,
+        "types": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg"
+    },
+    {
+        "name": "JioTV",
+        "internalName": "JioTV",
+        "version": 49,
+        "description": "JioTV - Live JioTV channels + Live Sports (live events, sports channels & highlights)",
+        "authors": [
+            "AllForU"
+        ],
+        "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/JioTV.cs3",
+        "fileHash": "sha256-01d16455051330f30548b1e15977a7adc10bcc7d94fa53d0ce60add5af7ea600",
+        "fileSize": 95953,
+        "status": 1,
+        "types": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/jiotv.png"
+    },
+    {
+        "name": "NoirX",
+        "internalName": "NoirX",
+        "version": 9,
+        "description": "NoirX - Movies & TV shows in HD (multi-language, multi-quality, subtitles)",
+        "authors": [
+            "AllForU"
+        ],
+        "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/NoirX.cs3",
+        "fileHash": "sha256-9642ae650a6cf738f8c459764979a05aa2a9854a563697b5c69d9e8edf175f67",
+        "fileSize": 65249,
+        "status": 1,
+        "types": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://noirx.me/apple-touch-icon.png"
+    },
+    {
+        "name": "Moviesmod",
+        "internalName": "Moviesmod",
+        "version": 33,
+        "description": "Includes Topmovies",
+        "authors": [
+            "megix"
+        ],
+        "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Moviesmod.cs3",
+        "fileHash": "sha256-9433fd970480a53f52f3ec4b49d3213c7bda5a26b109dc80ef82cd2ec13a37a7",
+        "fileSize": 44518,
+        "status": 1,
+        "types": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Moviesmod/icon.png"
+    },
+    {
+        "name": "CineStream",
+        "internalName": "CineStream",
+        "version": 487,
+        "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
+        "authors": [
+            "megix"
+        ],
+        "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/CineStream.cs3",
+        "fileHash": "sha256-30dc643628702d6b2fe139339e59996783c95a0c1d41efe0a31872ae4d10908b",
+        "fileSize": 695013,
+        "status": 1,
+        "types": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png"
     }
 ]
