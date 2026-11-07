@@ -127,7 +127,7 @@
         "name": "CricifyProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=desi-serials.to&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=desi-serials.to&sz=64",
         "fileHash": "sha256-faeeb2f7a8ebfa969a5e502acc54695d590a1b06554f59fc4cd4f5e7d9e4bb3a",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
@@ -188,7 +188,7 @@
         "name": "EinthusanProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=goldenaudiobook.com/&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=goldenaudiobook.com/&sz=64",
         "fileHash": "sha256-8b5b8dddd9d8021502be5472aad549bae435f0f0fff3a848907d3fbf77f4deca",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
@@ -229,7 +229,7 @@
         "name": "HDOProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=rezka.ag&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=rezka.ag&sz=64",
         "fileHash": "sha256-c1ad6def8d014f6e679da5fd12bcc1414b658bf3b6d9e80a6aa05b65259e30d8",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
@@ -525,7 +525,7 @@
         "name": "TamilDhoolProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tamilian.io&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tamilian.io&sz=64",
         "fileHash": "sha256-19f66faf159c9854abb5ca23429b9ecd5dc8a4ae3193cae701297149b0b64651",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
@@ -845,7 +845,7 @@
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://noirx.me/apple-touch-icon.png"
+        "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/logo.jpg"
     },
     {
         "name": "Moviesmod",

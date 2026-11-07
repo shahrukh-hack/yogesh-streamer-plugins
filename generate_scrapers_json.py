@@ -83,7 +83,7 @@ def analyze_cs3(file_path):
         "authors": meta_info.get('authors', ['Yogesh']),
         "language": meta_info.get('language', 'en'),
         "description": meta_info.get('description', ''),
-        "iconUrl": meta_info.get('iconUrl', ''),
+        "iconUrl": meta_info.get('iconUrl') or 'https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/logo.jpg',
         "tvTypes": tv_types,
         "isLive": any(t in ['Live', 'LiveStream'] for t in tv_types) or any('cricket' in s.lower() or 'live' in s.lower() for s in strings[:100]),
         "streamCapabilities": {

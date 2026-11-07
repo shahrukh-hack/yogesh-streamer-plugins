@@ -2,7 +2,7 @@
   "name": "Yogesh Streamer Official",
   "description": "Official verified extension and scraping modules for Yogesh Streamer (All Languages & Channels)",
   "manifestVersion": 1,
-  "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
+  "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/logo.jpg",
   "pluginLists": [
     "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/plugins.json"
   ]

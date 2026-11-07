@@ -29,7 +29,7 @@ for cs3_path in cs3_files:
         "internalName": base_name,
         "version": manifest_info.get("version") or 1,
         "types": manifest_info.get("tvTypes") or ["Movie", "TvSeries"],
-        "iconUrl": manifest_info.get("iconUrl") or "",
+        "iconUrl": manifest_info.get("iconUrl") or "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/logo.jpg",
         "description": manifest_info.get("description") or f"High-speed {base_name} scraper stream provider",
         "fileSize": os.path.getsize(cs3_path),
         "cs3DownloadUrl": f"https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/{filename}",
