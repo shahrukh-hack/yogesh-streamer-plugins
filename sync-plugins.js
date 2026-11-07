@@ -213,6 +213,15 @@ const ALIAS_MAP = {
     } else {
         console.log('✨ All plugins are already up-to-date with upstream!');
     }
+    // Automatically trigger CS3 to JSON catalog reverse-engineering
+    try {
+        console.log('🔄 Triggering automated CS3 -> JSON reverse-engineering...');
+        const { execSync } = require('child_process');
+        execSync('python3 export_plugins_json.py || python export_plugins_json.py', { stdio: 'inherit', cwd: __dirname });
+    } catch(err) {
+        console.log('⚠️ Failed to run export_plugins_json.py:', err.message);
+    }
+
     console.log('====================================================\n');
 }
 
