@@ -692,9 +692,9 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "version": 42,
+        "version": 45,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 86815,
+        "fileSize": 87892,
         "apiVersion": 1,
         "tvTypes": [
             "Movie",
@@ -708,7 +708,7 @@
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/UHDmoviesProvider.cs3",
         "internalName": "UHDmoviesProvider",
         "status": 1,
-        "fileHash": "sha256-13ef29ef23bd471979edcb844d8f9eb93301a2530e007d5a519a971b1c6642f2",
+        "fileHash": "sha256-4ae5f0a706c51ef824ccf60cfbee5477514e2a2efd2655526ce3469e7492864c",
         "description": "Indian Multi-language 4K Provider"
     },
     {
@@ -755,15 +755,15 @@
     {
         "name": "AnimeWorldIndia",
         "internalName": "AnimeWorldIndia",
-        "version": 12,
+        "version": 13,
         "description": "Anime World India - Hindi, Tamil, Telugu Anime & Cartoons with multi-audio",
         "authors": [
             "raghav"
         ],
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AnimeWorldIndia.cs3",
-        "fileHash": "sha256-3c48b190e02f7584b7815140db9b610b6992e7440069fcc2d16d07d772c4f0d3",
-        "fileSize": 67987,
+        "fileHash": "sha256-bfdfefe697519832fbdcf8b691906093f85904b07477d853b615c18f63a5a1f1",
+        "fileSize": 69392,
         "status": 1,
         "types": [
             "Movie",
@@ -774,15 +774,15 @@
     {
         "name": "EliteStreams",
         "internalName": "EliteStreams",
-        "version": 10,
+        "version": 11,
         "description": "Live sports and TV channels from JioTV+, Jio Hotstar, Sony LIV and FanCode",
         "authors": [
             "KSHITIJ8473"
         ],
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/EliteStreams.cs3",
-        "fileHash": "sha256-6641f6dd38f6055608d1938d0464cbc8662dcfdb1790d5a30fd5048cdfc1700a",
-        "fileSize": 58811,
+        "fileHash": "sha256-4bb4e48f62a52f108ad3e82e30be576b540411afe3f816ade460f40a8cc3ae66",
+        "fileSize": 62338,
         "status": 1,
         "types": [
             "Movie",
@@ -793,15 +793,15 @@
     {
         "name": "AllOtt",
         "internalName": "AllOtt",
-        "version": 8,
+        "version": 11,
         "description": "AllOtt - Netflix, Hotstar, Disney+ & Prime Video in ONE install (Tamil, English, Hindi & more)",
         "authors": [
             "AllForU"
         ],
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AllOtt.cs3",
-        "fileHash": "sha256-7927094d50371b23be30c136fe409b67ebc6e8f5a136e073605a4833f70438d8",
-        "fileSize": 144323,
+        "fileHash": "sha256-c01c6e7898a12eaf67252c1131085186cc98295a44f3c204ce23192e2e9b19a6",
+        "fileSize": 156690,
         "status": 1,
         "types": [
             "Movie",
@@ -812,15 +812,15 @@
     {
         "name": "JioTV",
         "internalName": "JioTV",
-        "version": 49,
+        "version": 52,
         "description": "JioTV - Live JioTV channels + Live Sports (live events, sports channels & highlights)",
         "authors": [
             "AllForU"
         ],
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/JioTV.cs3",
-        "fileHash": "sha256-01d16455051330f30548b1e15977a7adc10bcc7d94fa53d0ce60add5af7ea600",
-        "fileSize": 95953,
+        "fileHash": "sha256-c33f65a6a0d52068bae34e9ca4d52ce625df3279eacea0bbb7daf9d15bc2944e",
+        "fileSize": 108511,
         "status": 1,
         "types": [
             "Movie",
@@ -831,15 +831,15 @@
     {
         "name": "NoirX",
         "internalName": "NoirX",
-        "version": 9,
+        "version": 12,
         "description": "NoirX - Movies & TV shows in HD (multi-language, multi-quality, subtitles)",
         "authors": [
             "AllForU"
         ],
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/NoirX.cs3",
-        "fileHash": "sha256-9642ae650a6cf738f8c459764979a05aa2a9854a563697b5c69d9e8edf175f67",
-        "fileSize": 65249,
+        "fileHash": "sha256-802c71ff883f025ce1bc02fc09b1f6adee2db66d80267924299bf65d9fd87b39",
+        "fileSize": 77428,
         "status": 1,
         "types": [
             "Movie",

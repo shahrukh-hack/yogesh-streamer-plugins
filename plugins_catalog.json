@@ -31,19 +31,19 @@
     "id": "UHDmoviesProvider",
     "name": "UHDmovies (4K Ultra HD)",
     "internalName": "UHDmoviesProvider",
-    "version": 42,
+    "version": 45,
     "types": [
       "Movie",
       "TvSeries"
     ],
     "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
     "description": "Indian Multi-language 4K Provider",
-    "fileSize": 86815,
+    "fileSize": 87892,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/UHDmoviesProvider.cs3",
     "manifest": {
       "pluginClassName": "com.phisher98.UHDmoviesProviderPlugin",
       "name": "UHDmoviesProvider",
-      "version": 42,
+      "version": 45,
       "requiresResources": false
     },
     "discoveredEndpoints": [
@@ -55,7 +55,7 @@
       "https://driveleech.pro"
     ],
     "pluginClassName": "com.phisher98.UHDmoviesProviderPlugin",
-    "manifestVersion": 42
+    "manifestVersion": 45
   },
   {
     "id": "StreamFlixProvider",
@@ -143,18 +143,18 @@
     "id": "NoirX",
     "name": "NoirX",
     "internalName": "NoirX",
-    "version": 9,
+    "version": 12,
     "types": [
       "Movie",
       "TvSeries"
     ],
     "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/logo.jpg",
     "description": "NoirX - Movies & TV shows in HD (multi-language, multi-quality, subtitles)",
-    "fileSize": 65249,
+    "fileSize": 77428,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/NoirX.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 9,
+      "version": 12,
       "pluginClassName": "com.allforu.NoirXPlugin",
       "name": "NoirX"
     },
@@ -167,7 +167,7 @@
       "https://rzp.io"
     ],
     "pluginClassName": "com.allforu.NoirXPlugin",
-    "manifestVersion": 9
+    "manifestVersion": 12
   },
   {
     "id": "PlayZTVProvider",
@@ -288,18 +288,18 @@
     "id": "AllOtt",
     "name": "AllOtt",
     "internalName": "AllOtt",
-    "version": 8,
+    "version": 11,
     "types": [
       "Movie",
       "TvSeries"
     ],
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
     "description": "AllOtt - Netflix, Hotstar, Disney+ & Prime Video in ONE install (Tamil, English, Hindi & more)",
-    "fileSize": 144323,
+    "fileSize": 156690,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AllOtt.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 8,
+      "version": 11,
       "pluginClassName": "com.allforu.allott.AllOttPlugin",
       "name": "AllOtt"
     },
@@ -312,24 +312,24 @@
       "https://net22.cc"
     ],
     "pluginClassName": "com.allforu.allott.AllOttPlugin",
-    "manifestVersion": 8
+    "manifestVersion": 11
   },
   {
     "id": "JioTV",
     "name": "JioTV",
     "internalName": "JioTV",
-    "version": 49,
+    "version": 52,
     "types": [
       "Movie",
       "TvSeries"
     ],
     "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/jiotv.png",
     "description": "JioTV - Live JioTV channels + Live Sports (live events, sports channels & highlights)",
-    "fileSize": 95953,
+    "fileSize": 108511,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/JioTV.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 49,
+      "version": 52,
       "pluginClassName": "com.allforu.JioTvPlugin",
       "name": "JioTV"
     },
@@ -342,7 +342,7 @@
       "https://jiotv-mixed.alpha-circuit.workers.dev"
     ],
     "pluginClassName": "com.allforu.JioTvPlugin",
-    "manifestVersion": 49
+    "manifestVersion": 52
   },
   {
     "id": "TamilDhoolProvider",
@@ -731,19 +731,19 @@
     "id": "AnimeWorldIndia",
     "name": "AnimeWorldIndia",
     "internalName": "AnimeWorldIndia",
-    "version": 12,
+    "version": 13,
     "types": [
       "Movie",
       "TvSeries"
     ],
     "iconUrl": "https://watchanimeworld.top/wp-content/uploads/AW_Smiley.png",
     "description": "Anime World India - Hindi, Tamil, Telugu Anime & Cartoons with multi-audio",
-    "fileSize": 67987,
+    "fileSize": 69392,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AnimeWorldIndia.cs3",
     "manifest": {
       "pluginClassName": "com.laddu100.animeworldindia.AnimeWorldPlugin",
       "name": "AnimeWorldIndia",
-      "version": 12,
+      "version": 13,
       "requiresResources": false
     },
     "discoveredEndpoints": [
@@ -755,7 +755,7 @@
       "https://watchanimeworld.top"
     ],
     "pluginClassName": "com.laddu100.animeworldindia.AnimeWorldPlugin",
-    "manifestVersion": 12
+    "manifestVersion": 13
   },
   {
     "id": "XonProvider",
@@ -1092,31 +1092,31 @@
     "id": "EliteStreams",
     "name": "EliteStreams",
     "internalName": "EliteStreams",
-    "version": 10,
+    "version": 11,
     "types": [
       "Movie",
       "TvSeries"
     ],
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjVrQOYj-sTUXwbXmmIso7vR3mqtH_sxhXF69vtY5FXAK4M4iCaeLoatA&s=10",
     "description": "Live sports and TV channels from JioTV+, Jio Hotstar, Sony LIV and FanCode",
-    "fileSize": 58811,
+    "fileSize": 62338,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/EliteStreams.cs3",
     "manifest": {
       "pluginClassName": "com.elitestreams.EliteStreamsPlugin",
       "name": "EliteStreams",
-      "version": 10,
+      "version": 11,
       "requiresResources": false
     },
     "discoveredEndpoints": [
       "https://api.npoint.io",
       "https://biggbossstreamx.livenoww.workers.dev",
       "https://buymeacoffee.com",
+      "https://cloudstreampluginhelper-default-rtdb.firebaseio.com",
       "https://discord.gg",
-      "https://jiotv.catchup.cdn.jio.com",
-      "https://jiotvimages.cdn.jio.com"
+      "https://jiotv.catchup.cdn.jio.com"
     ],
     "pluginClassName": "com.elitestreams.EliteStreamsPlugin",
-    "manifestVersion": 10
+    "manifestVersion": 11
   },
   {
     "id": "TamilUltraProvider",
