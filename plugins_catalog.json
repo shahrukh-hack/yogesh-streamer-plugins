@@ -91,6 +91,37 @@
     "manifestVersion": 73
   },
   {
+    "id": "AnimePahe",
+    "name": "AnimePahe (Fast Sub & Dub)",
+    "internalName": "AnimePahe",
+    "version": 55,
+    "types": [
+      "AnimeMovie",
+      "Anime",
+      "OVA"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
+    "description": "The #1 fastest anime scraper (SUB/DUB) powered by direct kwik CDN servers",
+    "fileSize": 200602,
+    "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AnimePahe.cs3",
+    "manifest": {
+      "pluginClassName": "com.phisher98.AnimePaheProviderPlugin",
+      "name": "AnimePahe",
+      "version": 55,
+      "requiresResources": false
+    },
+    "discoveredEndpoints": [
+      "https://animepahe.com",
+      "https://animepahe.org",
+      "https://animepahe.pw",
+      "https://api.ani.zip",
+      "https://buymeacoffee.com",
+      "https://challenges.cloudflare.com"
+    ],
+    "pluginClassName": "com.phisher98.AnimePaheProviderPlugin",
+    "manifestVersion": 55
+  },
+  {
     "id": "AnimeSuge",
     "name": "AnimeSuge",
     "internalName": "AnimeSuge",
@@ -1149,6 +1180,40 @@
     ],
     "pluginClassName": "com.cncverse.StreamFlixProviderPlugin",
     "manifestVersion": 35
+  },
+  {
+    "id": "StreamPlay",
+    "name": "StreamPlay (Multi-API Hollywood & Shows)",
+    "internalName": "StreamPlay",
+    "version": 709,
+    "types": [
+      "AsianDrama",
+      "TvSeries",
+      "Anime",
+      "Movie",
+      "Cartoon",
+      "AnimeMovie"
+    ],
+    "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
+    "description": "#1 best extension based on MultiAPI aggregating 10+ streaming servers",
+    "fileSize": 2181036,
+    "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/StreamPlay.cs3",
+    "manifest": {
+      "pluginClassName": "com.phisher98.StreamPlayPlugin",
+      "name": "StreamPlay",
+      "version": 709,
+      "requiresResources": false
+    },
+    "discoveredEndpoints": [
+      "https://challenges.cloudflare.com",
+      "https://api.anilight.live",
+      "http://127.0.0.1",
+      "http://tellygossips.net",
+      "https://4animo.xyz",
+      "https://a.111477.xyz"
+    ],
+    "pluginClassName": "com.phisher98.StreamPlayPlugin",
+    "manifestVersion": 709
   },
   {
     "id": "TamilDhoolProvider",

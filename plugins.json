@@ -999,5 +999,56 @@
         "language": "hi",
         "iconUrl": "https://animedekho.tv/wp-content/uploads/2026/10/AnimeDekho-Logo.png",
         "apiVersion": 1
+    },
+    {
+        "name": "AnimePahe (Fast Sub & Dub)",
+        "internalName": "AnimePahe",
+        "version": 55,
+        "description": "The #1 fastest anime scraper (SUB/DUB) powered by direct kwik CDN servers",
+        "authors": [
+            "Yogesh",
+            "Cloudburst",
+            "Phisher98"
+        ],
+        "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AnimePahe.cs3",
+        "fileHash": "sha256-d9fd455a2c90554bda04f2d3b8226b80db1f70c9d41bc3c07abe4aaf994af04f",
+        "fileSize": 200602,
+        "status": 1,
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "language": "en",
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
+        "apiVersion": 1
+    },
+    {
+        "name": "StreamPlay (Multi-API Hollywood & Shows)",
+        "internalName": "StreamPlay",
+        "version": 709,
+        "description": "#1 best extension based on MultiAPI aggregating 10+ streaming servers",
+        "authors": [
+            "Yogesh",
+            "Phisher98",
+            "Hexated"
+        ],
+        "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/StreamPlay.cs3",
+        "fileHash": "sha256-b4ad26b1d2f18cd30450e4dd75242dd8bfcaf475e30dcca4924613abe9f5397e",
+        "fileSize": 2181036,
+        "status": 1,
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie",
+            "Cartoon",
+            "AnimeMovie"
+        ],
+        "language": "en",
+        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
+        "apiVersion": 1
     }
 ]
