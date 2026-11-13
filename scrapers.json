@@ -1,6 +1,6 @@
 {
   "manifestVersion": 2,
-  "totalScrapers": 50,
+  "totalScrapers": 51,
   "generatedAt": "2026-11-07T22:00:00Z",
   "scrapers": [
     {
@@ -1592,6 +1592,45 @@
       ],
       "downloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Rtally.cs3",
       "fileSize": 111273,
+      "lastAnalyzed": "2026-11-07T22:00:00Z"
+    },
+    {
+      "id": "SmartTube",
+      "name": "SmartTube",
+      "internalName": "SmartTube",
+      "version": 13,
+      "pluginClass": "com.allforu.SmartTubePlugin",
+      "authors": [
+        "Yogesh",
+        "AllForU",
+        "TeamNewPipe"
+      ],
+      "language": "en",
+      "description": "High-Resolution YouTube streaming with official NewPipe Extractor (4K, 1440p, 1080p, 60fps)",
+      "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/smarttube.png",
+      "tvTypes": [
+        "Movie",
+        "TvSeries",
+        "Anime",
+        "Others"
+      ],
+      "isLive": false,
+      "streamCapabilities": {
+        "hls": false,
+        "dash": false,
+        "mkv": false,
+        "drmClearKey": false
+      },
+      "targetDomains": [
+        "allforu-goal.pages.dev",
+        "buymeacoffee.com",
+        "rzp.io",
+        "t.me",
+        "www.youtube.com"
+      ],
+      "apiEndpoints": [],
+      "downloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/SmartTube.cs3",
+      "fileSize": 46341,
       "lastAnalyzed": "2026-11-07T22:00:00Z"
     },
     {

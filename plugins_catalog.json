@@ -1125,6 +1125,37 @@
     "manifestVersion": 53
   },
   {
+    "id": "SmartTube",
+    "name": "SmartTube (4K YouTube & Kids)",
+    "internalName": "SmartTube",
+    "version": 13,
+    "types": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Others"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/smarttube.png",
+    "description": "High-Resolution YouTube streaming with official NewPipe Extractor (4K, 1440p, 1080p, 60fps)",
+    "fileSize": 46341,
+    "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/SmartTube.cs3",
+    "manifest": {
+      "requiresResources": false,
+      "version": 13,
+      "pluginClassName": "com.allforu.SmartTubePlugin",
+      "name": "SmartTube"
+    },
+    "discoveredEndpoints": [
+      "https://allforu-goal.pages.dev",
+      "https://buymeacoffee.com",
+      "https://rzp.io",
+      "https://t.me",
+      "https://www.youtube.com"
+    ],
+    "pluginClassName": "com.allforu.SmartTubePlugin",
+    "manifestVersion": 13
+  },
+  {
     "id": "SportzxProvider",
     "name": "SportzxProvider",
     "internalName": "SportzxProvider",

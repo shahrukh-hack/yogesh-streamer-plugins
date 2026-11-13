@@ -1050,5 +1050,30 @@
         "language": "en",
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1
+    },
+    {
+        "name": "SmartTube (4K YouTube & Kids)",
+        "internalName": "SmartTube",
+        "version": 13,
+        "description": "High-Resolution YouTube streaming with official NewPipe Extractor (4K, 1440p, 1080p, 60fps)",
+        "authors": [
+            "Yogesh",
+            "AllForU",
+            "TeamNewPipe"
+        ],
+        "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/SmartTube.cs3",
+        "fileHash": "sha256-ab40e5bb3682b2b748942038d96043a05f4070307e6d189620a0d982ce95d289",
+        "fileSize": 46341,
+        "status": 1,
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Others"
+        ],
+        "language": "en",
+        "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/smarttube.png",
+        "apiVersion": 1
     }
 ]
