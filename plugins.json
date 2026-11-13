@@ -884,5 +884,120 @@
             "TvSeries"
         ],
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png"
+    },
+    {
+        "name": "FourKHDHub (4K Ultra HD)",
+        "internalName": "FourKHDHub",
+        "version": 41,
+        "description": "4K Ultra HD & 2160p HDR Bollywood and Hollywood cinema from HDhub4u team",
+        "authors": [
+            "Yogesh",
+            "Phisher98"
+        ],
+        "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/FourKHDHub.cs3",
+        "fileHash": "sha256-2a74b05dff6bc726c4c940db46613a4a3c0eb75e2f408c1f717f6a9aaf910ce6",
+        "fileSize": 100180,
+        "status": 1,
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "language": "hi",
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/4KHDHUB-Bright-Logo.png",
+        "apiVersion": 1
+    },
+    {
+        "name": "MoviesDrive (Fast Cloud Streams)",
+        "internalName": "MoviesDrive",
+        "version": 33,
+        "description": "High-speed GDFlix cloud streaming for Hindi Dual Audio and Bollywood releases",
+        "authors": [
+            "Yogesh",
+            "megix"
+        ],
+        "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/MoviesDrive.cs3",
+        "fileHash": "sha256-52758210caa1cf0a6dc929d0f73fec5919e0ab66e5eddf6386ed30f7c771980a",
+        "fileSize": 47290,
+        "status": 1,
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "language": "hi",
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/MoviesDrive/icon.png",
+        "apiVersion": 1
+    },
+    {
+        "name": "QuickIPTV (Live Sports & TV Backup)",
+        "internalName": "QuickIPTV",
+        "version": 8,
+        "description": "Backup Live Sports, Sony channels, and Indian TV channels during peak traffic",
+        "authors": [
+            "Yogesh",
+            "Phisher98"
+        ],
+        "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/QuickIPTV.cs3",
+        "fileHash": "sha256-487fff7f5a4d853b2c6f6bab7bdd48bc59aa2886b05a5805e3f47d7ee44f8bc5",
+        "fileSize": 52169,
+        "status": 1,
+        "tvTypes": [
+            "Live"
+        ],
+        "language": "en",
+        "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
+        "apiVersion": 1
+    },
+    {
+        "name": "Toonstream (Hindi Cartoons & Anime)",
+        "internalName": "Toonstream",
+        "version": 12,
+        "description": "Classic and modern cartoons (Doraemon, Shinchan, Ben 10, Marvel) in Hindi, Tamil & Telugu",
+        "authors": [
+            "Yogesh",
+            "Phisher98"
+        ],
+        "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Toonstream.cs3",
+        "fileHash": "sha256-f275a140ff7f4c5fba3d4679779abf576844472e3282466153c46a7edf0d1973",
+        "fileSize": 86763,
+        "status": 1,
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon",
+            "TvSeries",
+            "Movie"
+        ],
+        "language": "hi",
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/toonstream.png",
+        "apiVersion": 1
+    },
+    {
+        "name": "AnimeDekho (Hindi Dubbed Anime)",
+        "internalName": "AnimeDekhoProvider",
+        "version": 73,
+        "description": "AnimeDekho, HindiSubAnime & OnePace - Anime dubbed in Hindi, Tamil & Telugu",
+        "authors": [
+            "Yogesh",
+            "Phisher98"
+        ],
+        "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
+        "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AnimeDekhoProvider.cs3",
+        "fileHash": "sha256-c1d2c8ae91b1877f16d02cf5fa570429e550c7d1d29516a528b0dd369b27e8f4",
+        "fileSize": 157011,
+        "status": 1,
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon"
+        ],
+        "language": "hi",
+        "iconUrl": "https://animedekho.tv/wp-content/uploads/2026/10/AnimeDekho-Logo.png",
+        "apiVersion": 1
     }
 ]

@@ -60,6 +60,37 @@
     "manifestVersion": 11
   },
   {
+    "id": "AnimeDekhoProvider",
+    "name": "AnimeDekho (Hindi Dubbed Anime)",
+    "internalName": "AnimeDekhoProvider",
+    "version": 73,
+    "types": [
+      "AnimeMovie",
+      "Anime",
+      "Cartoon"
+    ],
+    "iconUrl": "https://animedekho.tv/wp-content/uploads/2026/10/AnimeDekho-Logo.png",
+    "description": "AnimeDekho, HindiSubAnime & OnePace - Anime dubbed in Hindi, Tamil & Telugu",
+    "fileSize": 157011,
+    "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AnimeDekhoProvider.cs3",
+    "manifest": {
+      "pluginClassName": "com.phisher98.AnimeDekhoPlugin",
+      "name": "AnimeDekhoProvider",
+      "version": 73,
+      "requiresResources": false
+    },
+    "discoveredEndpoints": [
+      "https://abyssplayer.com",
+      "https://animedekho.co",
+      "https://animedekho.tv",
+      "https://animeworld.site",
+      "https://animezia.cloud",
+      "https://api.gofile.io"
+    ],
+    "pluginClassName": "com.phisher98.AnimeDekhoPlugin",
+    "manifestVersion": 73
+  },
+  {
     "id": "AnimeSuge",
     "name": "AnimeSuge",
     "internalName": "AnimeSuge",
@@ -431,6 +462,36 @@
     "manifestVersion": 11
   },
   {
+    "id": "FourKHDHub",
+    "name": "FourKHDHub (4K Ultra HD)",
+    "internalName": "FourKHDHub",
+    "version": 41,
+    "types": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/4KHDHUB-Bright-Logo.png",
+    "description": "4K Ultra HD & 2160p HDR Bollywood and Hollywood cinema from HDhub4u team",
+    "fileSize": 100180,
+    "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/FourKHDHub.cs3",
+    "manifest": {
+      "pluginClassName": "com.fourKHDHub.FourKHDHubProvider",
+      "name": "FourKHDHub",
+      "version": 41,
+      "requiresResources": false
+    },
+    "discoveredEndpoints": [
+      "https://4khdhub.dad",
+      "https://api.simkl.com",
+      "https://api.themoviedb.org",
+      "https://buymeacoffee.com",
+      "https://hblinks.",
+      "https://hdstream4u."
+    ],
+    "pluginClassName": "com.fourKHDHub.FourKHDHubProvider",
+    "manifestVersion": 41
+  },
+  {
     "id": "GoldenAudiobook",
     "name": "GoldenAudiobook",
     "internalName": "GoldenAudiobook",
@@ -745,6 +806,38 @@
     "manifestVersion": 26
   },
   {
+    "id": "MoviesDrive",
+    "name": "MoviesDrive (Fast Cloud Streams)",
+    "internalName": "MoviesDrive",
+    "version": 33,
+    "types": [
+      "TvSeries",
+      "Movie",
+      "AsianDrama",
+      "Anime"
+    ],
+    "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/MoviesDrive/icon.png",
+    "description": "High-speed GDFlix cloud streaming for Hindi Dual Audio and Bollywood releases",
+    "fileSize": 47290,
+    "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/MoviesDrive.cs3",
+    "manifest": {
+      "pluginClassName": "com.megix.MoviesDrive",
+      "name": "MoviesDrive",
+      "version": 33,
+      "requiresResources": false
+    },
+    "discoveredEndpoints": [
+      "https://aiometadata.elfhosted.com",
+      "https://gdflix.",
+      "https://gdlink.",
+      "https://hubcloud.",
+      "https://moviesdrive.forum",
+      "https://new.gdflix."
+    ],
+    "pluginClassName": "com.megix.MoviesDrive",
+    "manifestVersion": 33
+  },
+  {
     "id": "Moviesmod",
     "name": "Moviesmod",
     "internalName": "Moviesmod",
@@ -913,6 +1006,34 @@
     ],
     "pluginClassName": "com.PublicSportsIPTV.PublicSportsIPTVProvider",
     "manifestVersion": 5
+  },
+  {
+    "id": "QuickIPTV",
+    "name": "QuickIPTV (Live Sports & TV Backup)",
+    "internalName": "QuickIPTV",
+    "version": 8,
+    "types": [
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
+    "description": "Backup Live Sports, Sony channels, and Indian TV channels during peak traffic",
+    "fileSize": 52169,
+    "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/QuickIPTV.cs3",
+    "manifest": {
+      "pluginClassName": "com.phisher98.QuickIPTVPlugin",
+      "name": "QuickIPTV",
+      "version": 8,
+      "requiresResources": false
+    },
+    "discoveredEndpoints": [
+      "https://buymeacoffee.com",
+      "https://embedme.top",
+      "https://omg10.com",
+      "https://raw.githubusercontent.com",
+      "https://supportbot.phisher2.workers.dev"
+    ],
+    "pluginClassName": "com.phisher98.QuickIPTVPlugin",
+    "manifestVersion": 8
   },
   {
     "id": "RadioIndiaProvider",
@@ -1107,6 +1228,39 @@
     ],
     "pluginClassName": "com.cncverse.TamilUltraProviderPlugin",
     "manifestVersion": 41
+  },
+  {
+    "id": "Toonstream",
+    "name": "Toonstream (Hindi Cartoons & Anime)",
+    "internalName": "Toonstream",
+    "version": 12,
+    "types": [
+      "AnimeMovie",
+      "Anime",
+      "Cartoon",
+      "TvSeries",
+      "Movie"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/toonstream.png",
+    "description": "Classic and modern cartoons (Doraemon, Shinchan, Ben 10, Marvel) in Hindi, Tamil & Telugu",
+    "fileSize": 86763,
+    "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Toonstream.cs3",
+    "manifest": {
+      "pluginClassName": "com.Toonstream.ToonstreamProvider",
+      "name": "Toonstream",
+      "version": 12,
+      "requiresResources": false
+    },
+    "discoveredEndpoints": [
+      "https://abyssplayer.com",
+      "https://as-cdn26.top",
+      "https://blakiteapi.xyz",
+      "https://buymeacoffee.com",
+      "https://cdnwish.com",
+      "https://cloudy.upns.one"
+    ],
+    "pluginClassName": "com.Toonstream.ToonstreamProvider",
+    "manifestVersion": 12
   },
   {
     "id": "UHDmoviesProvider",

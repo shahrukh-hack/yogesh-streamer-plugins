@@ -1,6 +1,6 @@
 {
   "manifestVersion": 2,
-  "totalScrapers": 43,
+  "totalScrapers": 48,
   "generatedAt": "2026-11-07T22:00:00Z",
   "scrapers": [
     {
@@ -76,6 +76,72 @@
       ],
       "downloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AniKoto.cs3",
       "fileSize": 66292,
+      "lastAnalyzed": "2026-11-07T22:00:00Z"
+    },
+    {
+      "id": "AnimeDekhoProvider",
+      "name": "AnimeDekhoProvider",
+      "internalName": "AnimeDekhoProvider",
+      "version": 73,
+      "pluginClass": "com.phisher98.AnimeDekhoPlugin",
+      "authors": [
+        "Yogesh",
+        "Phisher98"
+      ],
+      "language": "hi",
+      "description": "AnimeDekho, HindiSubAnime & OnePace - Anime dubbed in Hindi, Tamil & Telugu",
+      "iconUrl": "https://animedekho.tv/wp-content/uploads/2026/10/AnimeDekho-Logo.png",
+      "tvTypes": [
+        "AnimeMovie",
+        "Anime",
+        "Cartoon"
+      ],
+      "isLive": false,
+      "streamCapabilities": {
+        "hls": false,
+        "dash": false,
+        "mkv": false,
+        "drmClearKey": false
+      },
+      "targetDomains": [
+        "*.gdflix.*",
+        "abyssplayer.com",
+        "animedekho.co",
+        "animedekho.tv",
+        "animeworld.site",
+        "animezia.cloud",
+        "api.gofile.io",
+        "as-cdn21.top",
+        "as-cdn26.top",
+        "blakiteapi.xyz",
+        "buymeacoffee.com",
+        "cdnwish.com",
+        "cloudy.upns.one",
+        "enc-dec.app",
+        "filemoon.nl",
+        "gdmirrorbot.nl",
+        "gofile.io",
+        "hindisubanime.co",
+        "hubcloud.*",
+        "multimovies.cloud",
+        "omg10.com",
+        "onepace.co",
+        "player.abyssplayer.com",
+        "playhydrax.com",
+        "ravok.buzz",
+        "rubystm.com",
+        "short.icu",
+        "stream.techinmind.space",
+        "vidcloud.upns.ink",
+        "vidmoly.biz",
+        "vidmoly.net",
+        "z.awstream.net"
+      ],
+      "apiEndpoints": [
+        "https://enc-dec.app/api/dec-abyss"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AnimeDekhoProvider.cs3",
+      "fileSize": 157011,
       "lastAnalyzed": "2026-11-07T22:00:00Z"
     },
     {
@@ -663,6 +729,52 @@
       "lastAnalyzed": "2026-11-07T22:00:00Z"
     },
     {
+      "id": "FourKHDHub",
+      "name": "FourKHDHub",
+      "internalName": "FourKHDHub",
+      "version": 41,
+      "pluginClass": "com.fourKHDHub.FourKHDHubProvider",
+      "authors": [
+        "Yogesh",
+        "Phisher98"
+      ],
+      "language": "hi",
+      "description": "4K Ultra HD & 2160p HDR Bollywood and Hollywood cinema from HDhub4u team",
+      "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/4KHDHUB-Bright-Logo.png",
+      "tvTypes": [
+        "Movie",
+        "TvSeries"
+      ],
+      "isLive": false,
+      "streamCapabilities": {
+        "hls": false,
+        "dash": false,
+        "mkv": false,
+        "drmClearKey": false
+      },
+      "targetDomains": [
+        "*.hubcloud.*",
+        "4khdhub.dad",
+        "api.simkl.com",
+        "api.themoviedb.org",
+        "buymeacoffee.com",
+        "hblinks.*",
+        "hdstream4u.*",
+        "hubcdn.*",
+        "hubcloud.*",
+        "hubcloud.foo",
+        "hubdrive.space",
+        "hubstream.*",
+        "live.metahub.space",
+        "omg10.com",
+        "pixeldrain.dev"
+      ],
+      "apiEndpoints": [],
+      "downloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/FourKHDHub.cs3",
+      "fileSize": 100180,
+      "lastAnalyzed": "2026-11-07T22:00:00Z"
+    },
+    {
       "id": "GoldenAudiobook",
       "name": "GoldenAudiobook",
       "internalName": "GoldenAudiobook",
@@ -1076,6 +1188,47 @@
       "lastAnalyzed": "2026-11-07T22:00:00Z"
     },
     {
+      "id": "MoviesDrive",
+      "name": "MoviesDrive",
+      "internalName": "MoviesDrive",
+      "version": 33,
+      "pluginClass": "com.megix.MoviesDrive",
+      "authors": [
+        "Yogesh",
+        "megix"
+      ],
+      "language": "hi",
+      "description": "High-speed GDFlix cloud streaming for Hindi Dual Audio and Bollywood releases",
+      "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/MoviesDrive/icon.png",
+      "tvTypes": [
+        "TvSeries",
+        "Movie",
+        "AsianDrama",
+        "Anime"
+      ],
+      "isLive": false,
+      "streamCapabilities": {
+        "hls": false,
+        "dash": false,
+        "mkv": false,
+        "drmClearKey": false
+      },
+      "targetDomains": [
+        "*.gdflix.*",
+        "gdflix.*",
+        "gdlink.*",
+        "hubcloud.*",
+        "moviesdrive.forum",
+        "new.gdflix.*",
+        "new1.gdflix.*",
+        "new15.gdflix.*"
+      ],
+      "apiEndpoints": [],
+      "downloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/MoviesDrive.cs3",
+      "fileSize": 47290,
+      "lastAnalyzed": "2026-11-07T22:00:00Z"
+    },
+    {
       "id": "Moviesmod",
       "name": "Moviesmod",
       "internalName": "Moviesmod",
@@ -1277,6 +1430,39 @@
       "apiEndpoints": [],
       "downloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/PublicSportsIPTV.cs3",
       "fileSize": 52463,
+      "lastAnalyzed": "2026-11-07T22:00:00Z"
+    },
+    {
+      "id": "QuickIPTV",
+      "name": "QuickIPTV",
+      "internalName": "QuickIPTV",
+      "version": 8,
+      "pluginClass": "com.phisher98.QuickIPTVPlugin",
+      "authors": [
+        "Yogesh",
+        "Phisher98"
+      ],
+      "language": "en",
+      "description": "Backup Live Sports, Sony channels, and Indian TV channels during peak traffic",
+      "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
+      "tvTypes": [
+        "Live"
+      ],
+      "isLive": true,
+      "streamCapabilities": {
+        "hls": true,
+        "dash": false,
+        "mkv": false,
+        "drmClearKey": false
+      },
+      "targetDomains": [
+        "buymeacoffee.com",
+        "embedme.top",
+        "omg10.com"
+      ],
+      "apiEndpoints": [],
+      "downloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/QuickIPTV.cs3",
+      "fileSize": 52169,
       "lastAnalyzed": "2026-11-07T22:00:00Z"
     },
     {
@@ -1540,6 +1726,68 @@
       ],
       "downloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Tamilian.cs3",
       "fileSize": 38224,
+      "lastAnalyzed": "2026-11-07T22:00:00Z"
+    },
+    {
+      "id": "Toonstream",
+      "name": "Toonstream",
+      "internalName": "Toonstream",
+      "version": 12,
+      "pluginClass": "com.Toonstream.ToonstreamProvider",
+      "authors": [
+        "Yogesh",
+        "Phisher98"
+      ],
+      "language": "hi",
+      "description": "Classic and modern cartoons (Doraemon, Shinchan, Ben 10, Marvel) in Hindi, Tamil & Telugu",
+      "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/toonstream.png",
+      "tvTypes": [
+        "AnimeMovie",
+        "Anime",
+        "Cartoon",
+        "TvSeries",
+        "Movie"
+      ],
+      "isLive": false,
+      "streamCapabilities": {
+        "hls": true,
+        "dash": false,
+        "mkv": false,
+        "drmClearKey": false
+      },
+      "targetDomains": [
+        "abyssplayer.com",
+        "as-cdn26.top",
+        "blakiteapi.xyz",
+        "buymeacoffee.com",
+        "cdnwish.com",
+        "cloudy.upns.one",
+        "d000d.com",
+        "emturbovid.com",
+        "enc-dec.app",
+        "filemoon.nl",
+        "filesforever.link",
+        "gdmirrorbot.nl",
+        "omg10.com",
+        "play.zephyrflick.top",
+        "playhydrax.com",
+        "pro.iqsmartgames.com",
+        "ravok.buzz",
+        "rubystm.com",
+        "stream.techinmind.space",
+        "tooniboy.xyz",
+        "toonstream.us",
+        "vidhidevip.com",
+        "vidmoly.biz",
+        "vidmoly.net",
+        "www.youtube.com",
+        "z.awstream.net"
+      ],
+      "apiEndpoints": [
+        "https://enc-dec.app/api/dec-abyss"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Toonstream.cs3",
+      "fileSize": 86763,
       "lastAnalyzed": "2026-11-07T22:00:00Z"
     },
     {
