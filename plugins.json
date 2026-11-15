@@ -755,15 +755,15 @@
     {
         "name": "AnimeWorldIndia",
         "internalName": "AnimeWorldIndia",
-        "version": 13,
+        "version": 14,
         "description": "Anime World India - Hindi, Tamil, Telugu Anime & Cartoons with multi-audio",
         "authors": [
             "raghav"
         ],
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AnimeWorldIndia.cs3",
-        "fileHash": "sha256-bfdfefe697519832fbdcf8b691906093f85904b07477d853b615c18f63a5a1f1",
-        "fileSize": 69392,
+        "fileHash": "sha256-c8f520adee3ea285177c5f07a0303103d5abcea20105454b30b2ff8684386b02",
+        "fileSize": 70313,
         "status": 1,
         "types": [
             "Movie",
@@ -774,15 +774,15 @@
     {
         "name": "EliteStreams",
         "internalName": "EliteStreams",
-        "version": 11,
+        "version": 12,
         "description": "Live sports and TV channels from JioTV+, Jio Hotstar, Sony LIV and FanCode",
         "authors": [
             "KSHITIJ8473"
         ],
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/EliteStreams.cs3",
-        "fileHash": "sha256-4bb4e48f62a52f108ad3e82e30be576b540411afe3f816ade460f40a8cc3ae66",
-        "fileSize": 62338,
+        "fileHash": "sha256-173be8ec087d6af8b62f796e049d022b19669dbbaf36fe2cfca2a382f330771b",
+        "fileSize": 63215,
         "status": 1,
         "types": [
             "Movie",
