@@ -61,7 +61,7 @@
     "id": "HDrezkaProvider",
     "name": "HDrezkaProvider",
     "internalName": "HDrezkaProvider",
-    "version": 38,
+    "version": 39,
     "types": [
       "AsianDrama",
       "Anime",
@@ -70,11 +70,11 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=rezka.ag&sz=64",
     "description": "High-speed HDrezkaProvider scraper stream provider",
-    "fileSize": 66953,
+    "fileSize": 67029,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/HDrezkaProvider.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 38,
+      "version": 39,
       "pluginClassName": "com.hexated.HDrezkaProviderPlugin",
       "name": "HDrezkaProvider"
     },
@@ -83,7 +83,7 @@
       "https://rezka.ag"
     ],
     "pluginClassName": "com.hexated.HDrezkaProviderPlugin",
-    "manifestVersion": 38
+    "manifestVersion": 39
   },
   {
     "id": "Moviesmod",
@@ -119,18 +119,18 @@
     "id": "CastleTvProvider",
     "name": "CastleTvProvider",
     "internalName": "CastleTvProvider",
-    "version": 47,
+    "version": 48,
     "types": [
       "Movie",
       "TvSeries"
     ],
     "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
     "description": "Castle TV Movies and Series Provider (Play in VLC or MPV for multi-audio support)",
-    "fileSize": 88297,
+    "fileSize": 88396,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/CastleTvProvider.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 47,
+      "version": 48,
       "pluginClassName": "com.cncverse.CastleTvProviderPlugin",
       "name": "CastleTvProvider"
     },
@@ -139,13 +139,13 @@
       "https://cncverse.pages.dev"
     ],
     "pluginClassName": "com.cncverse.CastleTvProviderPlugin",
-    "manifestVersion": 47
+    "manifestVersion": 48
   },
   {
     "id": "BilibiliProvider",
     "name": "BilibiliProvider",
     "internalName": "BilibiliProvider",
-    "version": 37,
+    "version": 38,
     "types": [
       "Anime",
       "Movies",
@@ -154,11 +154,11 @@
     ],
     "iconUrl": "https://play-lh.googleusercontent.com/G9s84Cm1TDnKDX2P8nipS_s60cuCnYtjBRRLespF8nivjXmbV9tF1fY37clZhXMLaA",
     "description": "Bilibili TV - International streaming platform for anime, movies, and variety shows (bilibili.tv)",
-    "fileSize": 104306,
+    "fileSize": 104466,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/BilibiliProvider.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 37,
+      "version": 38,
       "pluginClassName": "com.cncverse.BilibiliProviderPlugin",
       "name": "BilibiliProvider"
     },
@@ -169,7 +169,7 @@
       "https://www.bilibili.tv"
     ],
     "pluginClassName": "com.cncverse.BilibiliProviderPlugin",
-    "manifestVersion": 37
+    "manifestVersion": 38
   },
   {
     "id": "UHDmoviesProvider",
@@ -205,17 +205,17 @@
     "id": "LibriVoxAudiobook",
     "name": "LibriVoxAudiobook",
     "internalName": "LibriVoxAudiobook",
-    "version": 35,
+    "version": 36,
     "types": [
       "Others"
     ],
     "iconUrl": "https://librivox.org/wp-content/themes/librivox/images/librivox-logo.png",
     "description": "Audiobooks in public domain",
-    "fileSize": 36138,
+    "fileSize": 36251,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/LibriVoxAudiobook.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 35,
+      "version": 36,
       "pluginClassName": "com.RowdyAvocado.LibriVoxAudiobookPlugin",
       "name": "LibriVoxAudiobook"
     },
@@ -225,23 +225,23 @@
       "https://librivox.org"
     ],
     "pluginClassName": "com.RowdyAvocado.LibriVoxAudiobookPlugin",
-    "manifestVersion": 35
+    "manifestVersion": 36
   },
   {
     "id": "TamilUltraProvider",
     "name": "TamilUltraProvider",
     "internalName": "TamilUltraProvider",
-    "version": 41,
+    "version": 42,
     "types": [
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
     "description": "Indian Live TV Provider",
-    "fileSize": 35387,
+    "fileSize": 35499,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/TamilUltraProvider.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 41,
+      "version": 42,
       "pluginClassName": "com.cncverse.TamilUltraProviderPlugin",
       "name": "TamilUltraProvider"
     },
@@ -250,23 +250,23 @@
       "https://tamilultra.co.uk"
     ],
     "pluginClassName": "com.cncverse.TamilUltraProviderPlugin",
-    "manifestVersion": 41
+    "manifestVersion": 42
   },
   {
     "id": "GoldenAudiobook",
     "name": "GoldenAudiobook",
     "internalName": "GoldenAudiobook",
-    "version": 35,
+    "version": 36,
     "types": [
       "Others"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=goldenaudiobook.com/&sz=64",
     "description": "Audiobooks - Use Picture in Picture or VLC as external player",
-    "fileSize": 38034,
+    "fileSize": 38105,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/GoldenAudiobook.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 35,
+      "version": 36,
       "pluginClassName": "com.cncverse.GoldenAudiobookPlugin",
       "name": "GoldenAudiobook"
     },
@@ -276,7 +276,7 @@
       "https://librivox.org"
     ],
     "pluginClassName": "com.cncverse.GoldenAudiobookPlugin",
-    "manifestVersion": 35
+    "manifestVersion": 36
   },
   {
     "id": "SmartTube",
@@ -412,8 +412,8 @@
       "AnimeMovie"
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
-    "description": "#1 best extension based on MultiAPI aggregating 10+ streaming servers",
-    "fileSize": 2181036,
+    "description": "#1 best extension based on MultiAPI",
+    "fileSize": 2181035,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/StreamPlay.cs3",
     "manifest": {
       "pluginClassName": "com.phisher98.StreamPlayPlugin",
@@ -466,18 +466,18 @@
     "id": "MovieBoxProviderIN",
     "name": "MovieBoxProviderIN",
     "internalName": "MovieBoxProviderIN",
-    "version": 55,
+    "version": 56,
     "types": [
       "Movie",
       "TvSeries"
     ],
     "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
     "description": "Multi Language Movies and Series Provider (Local homepage based on region)",
-    "fileSize": 92240,
+    "fileSize": 92272,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/MovieBoxProviderIN.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 55,
+      "version": 56,
       "pluginClassName": "com.cncverse.MovieBoxProviderINPlugin",
       "name": "MovieBoxProviderIN"
     },
@@ -490,7 +490,7 @@
       "https://movie-box.co"
     ],
     "pluginClassName": "com.cncverse.MovieBoxProviderINPlugin",
-    "manifestVersion": 55
+    "manifestVersion": 56
   },
   {
     "id": "NoirX",
@@ -617,17 +617,17 @@
     "id": "CricifyProvider",
     "name": "CricifyProvider",
     "internalName": "CricifyProvider",
-    "version": 76,
+    "version": 77,
     "types": [
       "Live"
     ],
     "iconUrl": "https://cricfy.pro/wp-content/uploads/2024/11/cropped-cricfytv-2.png",
     "description": "Watch Live sports and TV channels",
-    "fileSize": 117712,
+    "fileSize": 117796,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/CricifyProvider.cs3",
     "manifest": {
       "requiresResources": true,
-      "version": 76,
+      "version": 77,
       "pluginClassName": "com.cncverse.CricifyPlugin",
       "name": "CricifyProvider"
     },
@@ -640,23 +640,23 @@
       "https://card.cncverse.dpdns.org"
     ],
     "pluginClassName": "com.cncverse.CricifyPlugin",
-    "manifestVersion": 76
+    "manifestVersion": 77
   },
   {
     "id": "SportzxProvider",
     "name": "SportzxProvider",
     "internalName": "SportzxProvider",
-    "version": 31,
+    "version": 32,
     "types": [
       "Live"
     ],
     "iconUrl": "https://sportzxlive.com/wp-content/uploads/2026/04/cropped-logo-1-2048x1611-1-1024x806.png",
     "description": "Watch Live Sports Events via SportzX",
-    "fileSize": 123765,
+    "fileSize": 123833,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/SportzxProvider.cs3",
     "manifest": {
       "requiresResources": true,
-      "version": 31,
+      "version": 32,
       "pluginClassName": "com.cncverse.SportzxPlugin",
       "name": "SportzxProvider"
     },
@@ -669,23 +669,23 @@
       "https://streamtvapp.top"
     ],
     "pluginClassName": "com.cncverse.SportzxPlugin",
-    "manifestVersion": 31
+    "manifestVersion": 32
   },
   {
     "id": "MoviezwapProvider",
     "name": "MoviezwapProvider",
     "internalName": "MoviezwapProvider",
-    "version": 33,
+    "version": 34,
     "types": [
       "Movie"
     ],
     "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
     "description": "Telugu Movies Provider - Moviezwap",
-    "fileSize": 40156,
+    "fileSize": 40232,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/MoviezwapProvider.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 33,
+      "version": 34,
       "pluginClassName": "com.cncverse.MoviezwapProviderPlugin",
       "name": "MoviezwapProvider"
     },
@@ -694,13 +694,13 @@
       "https://www.moviezwap.land"
     ],
     "pluginClassName": "com.cncverse.MoviezwapProviderPlugin",
-    "manifestVersion": 33
+    "manifestVersion": 34
   },
   {
     "id": "XonProvider",
     "name": "XonProvider",
     "internalName": "XonProvider",
-    "version": 36,
+    "version": 37,
     "types": [
       "TvSeries",
       "Movie",
@@ -708,11 +708,11 @@
     ],
     "iconUrl": "https://play-lh.googleusercontent.com/zVq_wAus2snoO-ggyI6IomlsCzfybAozQOGYpBrv71r1--rOYOYWsr_N7DWwVp9t7ro=s248-rw",
     "description": "Xon Provider for Anime and Cartoons - Tamil, Hindi, Telugu, English, Japanese",
-    "fileSize": 63288,
+    "fileSize": 63369,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/XonProvider.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 36,
+      "version": 37,
       "pluginClassName": "com.cncverse.Xon",
       "name": "XonProvider"
     },
@@ -723,24 +723,24 @@
       "https://xon-avens.xyz"
     ],
     "pluginClassName": "com.cncverse.Xon",
-    "manifestVersion": 36
+    "manifestVersion": 37
   },
   {
     "id": "HDOProvider",
     "name": "HDOProvider",
     "internalName": "HDOProvider",
-    "version": 36,
+    "version": 37,
     "types": [
       "Movies",
       "TvSeries"
     ],
     "iconUrl": "https://images.dwncdn.net/images/t_app-icon-l/p/b0c9663c-0d61-4941-b12f-91c58c06189f/1137087733/hdo-box-logo",
     "description": "HDO provider",
-    "fileSize": 48260,
+    "fileSize": 48351,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/HDOProvider.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 36,
+      "version": 37,
       "pluginClassName": "com.hdo.HDOProviderPlugin",
       "name": "HDOProvider"
     },
@@ -751,13 +751,13 @@
       "https://sub.wyzie.ru"
     ],
     "pluginClassName": "com.hdo.HDOProviderPlugin",
-    "manifestVersion": 36
+    "manifestVersion": 37
   },
   {
     "id": "AniKoto",
     "name": "AniKoto",
     "internalName": "AniKoto",
-    "version": 11,
+    "version": 12,
     "types": [
       "Anime",
       "AnimeMovie",
@@ -765,11 +765,11 @@
     ],
     "iconUrl": "https://anikototv.to/AnikotoTheme/assets/images/favicon.png",
     "description": "High-speed AniKoto scraper stream provider",
-    "fileSize": 66292,
+    "fileSize": 66384,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AniKoto.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 11,
+      "version": 12,
       "pluginClassName": "com.anikoto.AnikotoPlugin",
       "name": "AniKoto"
     },
@@ -781,13 +781,13 @@
       "https://vidwish.live"
     ],
     "pluginClassName": "com.anikoto.AnikotoPlugin",
-    "manifestVersion": 11
+    "manifestVersion": 12
   },
   {
     "id": "MLSBDProvider",
     "name": "MLSBDProvider",
     "internalName": "MLSBDProvider",
-    "version": 36,
+    "version": 37,
     "types": [
       "Movie",
       "TvSeries",
@@ -796,11 +796,11 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
     "description": "The largest movie link store in Bangladesh",
-    "fileSize": 118715,
+    "fileSize": 118796,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/MLSBDProvider.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 36,
+      "version": 37,
       "pluginClassName": "com.cncverse.MlsbdPlugin",
       "name": "MLSBDProvider"
     },
@@ -813,7 +813,7 @@
       "https://gofile.io"
     ],
     "pluginClassName": "com.cncverse.MlsbdPlugin",
-    "manifestVersion": 36
+    "manifestVersion": 37
   },
   {
     "id": "AnimePahe",
@@ -850,7 +850,7 @@
     "id": "StreamFlixProvider",
     "name": "StreamFlixProvider",
     "internalName": "StreamFlixProvider",
-    "version": 35,
+    "version": 36,
     "types": [
       "Movie",
       "TvSeries",
@@ -858,11 +858,11 @@
     ],
     "iconUrl": "https://play-lh.googleusercontent.com/7geBQBtW_yN70BU81Oi2SoZvYsj5VoYrI4FmUNdqWQlchtExJb7XE_1BQysGzgJ6mBU",
     "description": "StreamFlix Multi Language Movies and Series Provider",
-    "fileSize": 65038,
+    "fileSize": 65097,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/StreamFlixProvider.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 35,
+      "version": 36,
       "pluginClassName": "com.cncverse.StreamFlixProviderPlugin",
       "name": "StreamFlixProvider"
     },
@@ -872,7 +872,7 @@
       "https://image.tmdb.org"
     ],
     "pluginClassName": "com.cncverse.StreamFlixProviderPlugin",
-    "manifestVersion": 35
+    "manifestVersion": 36
   },
   {
     "id": "Toonstream",
@@ -911,7 +911,7 @@
     "id": "MovieLinkBDProvider",
     "name": "MovieLinkBDProvider",
     "internalName": "MovieLinkBDProvider",
-    "version": 26,
+    "version": 27,
     "types": [
       "Movie",
       "TvSeries",
@@ -920,11 +920,11 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
     "description": "MovieLinkBD - Largest Movie Download Site in Bangladesh",
-    "fileSize": 57989,
+    "fileSize": 58086,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/MovieLinkBDProvider.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 26,
+      "version": 27,
       "pluginClassName": "com.cncverse.MovieLinkBDPlugin",
       "name": "MovieLinkBDProvider"
     },
@@ -935,23 +935,23 @@
       "https://www.youtube.com"
     ],
     "pluginClassName": "com.cncverse.MovieLinkBDPlugin",
-    "manifestVersion": 26
+    "manifestVersion": 27
   },
   {
     "id": "PlayZTVProvider",
     "name": "PlayZTVProvider",
     "internalName": "PlayZTVProvider",
-    "version": 47,
+    "version": 48,
     "types": [
       "Live"
     ],
     "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
     "description": "Watch Live TV channels & sports via PlayZTV",
-    "fileSize": 118827,
+    "fileSize": 118943,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/PlayZTVProvider.cs3",
     "manifest": {
       "requiresResources": true,
-      "version": 47,
+      "version": 48,
       "pluginClassName": "com.cncverse.PlayZTVPlugin",
       "name": "PlayZTVProvider"
     },
@@ -964,24 +964,24 @@
       "https://playztv2828.store"
     ],
     "pluginClassName": "com.cncverse.PlayZTVPlugin",
-    "manifestVersion": 47
+    "manifestVersion": 48
   },
   {
     "id": "MovieBoxProvider",
     "name": "MovieBoxProvider",
     "internalName": "MovieBoxProvider",
-    "version": 53,
+    "version": 54,
     "types": [
       "Movie",
       "TvSeries"
     ],
     "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
     "description": "Multi Language Movies and Series Provider",
-    "fileSize": 94649,
+    "fileSize": 94688,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/MovieBoxProvider.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 53,
+      "version": 54,
       "pluginClassName": "com.cncverse.MovieBoxProviderPlugin",
       "name": "MovieBoxProvider"
     },
@@ -994,23 +994,23 @@
       "https://movie-box.co"
     ],
     "pluginClassName": "com.cncverse.MovieBoxProviderPlugin",
-    "manifestVersion": 53
+    "manifestVersion": 54
   },
   {
     "id": "DesiSerialsProvider",
     "name": "DesiSerialsProvider",
     "internalName": "DesiSerialsProvider",
-    "version": 34,
+    "version": 35,
     "types": [
       "TvSeries"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=desi-serials.to&sz=64",
     "description": "Desi Serials Tv Shows Provider",
-    "fileSize": 59363,
+    "fileSize": 59458,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/DesiSerialsProvider.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 34,
+      "version": 35,
       "pluginClassName": "com.cncverse.desiserials.DesiSerialsProviderPlugin",
       "name": "DesiSerialsProvider"
     },
@@ -1020,13 +1020,13 @@
       "https://www.desi-serials.to"
     ],
     "pluginClassName": "com.cncverse.desiserials.DesiSerialsProviderPlugin",
-    "manifestVersion": 34
+    "manifestVersion": 35
   },
   {
     "id": "AnimeSuge",
     "name": "AnimeSuge",
     "internalName": "AnimeSuge",
-    "version": 11,
+    "version": 12,
     "types": [
       "Anime",
       "AnimeMovie",
@@ -1034,11 +1034,11 @@
     ],
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animesuge.cz&size=64",
     "description": "High-speed AnimeSuge scraper stream provider",
-    "fileSize": 61531,
+    "fileSize": 61602,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AnimeSuge.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 11,
+      "version": 12,
       "pluginClassName": "com.animesuge.provider.AnimeSugePlugin",
       "name": "AnimeSuge"
     },
@@ -1050,24 +1050,24 @@
       "https://vidwish.live"
     ],
     "pluginClassName": "com.animesuge.provider.AnimeSugePlugin",
-    "manifestVersion": 11
+    "manifestVersion": 12
   },
   {
     "id": "Netmirror",
     "name": "Netmirror (Netflix/Prime/Hotstar)",
     "internalName": "Netmirror",
-    "version": 115,
+    "version": 116,
     "types": [
       "Movie",
       "TvSeries"
     ],
     "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
     "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
-    "fileSize": 92652,
+    "fileSize": 92749,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Netmirror.cs3",
     "manifest": {
       "requiresResources": true,
-      "version": 115,
+      "version": 116,
       "pluginClassName": "com.horis.cncverse.CNCVersePlugin",
       "name": "CNC Verse"
     },
@@ -1078,23 +1078,23 @@
       "https://net52.cc"
     ],
     "pluginClassName": "com.horis.cncverse.CNCVersePlugin",
-    "manifestVersion": 115
+    "manifestVersion": 116
   },
   {
     "id": "Tamilian",
     "name": "Tamilian",
     "internalName": "Tamilian",
-    "version": 33,
+    "version": 34,
     "types": [
       "Movies"
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=tamilian.io&sz=64",
     "description": "Movies (Tamil)",
-    "fileSize": 38224,
+    "fileSize": 38316,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Tamilian.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 33,
+      "version": 34,
       "pluginClassName": "com.Tamilian.HiAnimeProviderPlugin",
       "name": "Tamilian"
     },
@@ -1103,24 +1103,24 @@
       "https://embedojo.net"
     ],
     "pluginClassName": "com.Tamilian.HiAnimeProviderPlugin",
-    "manifestVersion": 33
+    "manifestVersion": 34
   },
   {
     "id": "DoFlixProvider",
     "name": "DoFlixProvider",
     "internalName": "DoFlixProvider",
-    "version": 38,
+    "version": 39,
     "types": [
       "TvSeries",
       "Movie"
     ],
     "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
     "description": "DoFlix Provider for Movies and TV Series",
-    "fileSize": 98897,
+    "fileSize": 98984,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/DoFlixProvider.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 38,
+      "version": 39,
       "pluginClassName": "com.cncverse.DoFlixProviderPlugin",
       "name": "DoFlixProvider"
     },
@@ -1132,23 +1132,23 @@
       "https://links.watchkar.com"
     ],
     "pluginClassName": "com.cncverse.DoFlixProviderPlugin",
-    "manifestVersion": 38
+    "manifestVersion": 39
   },
   {
     "id": "TamilDhoolProvider",
     "name": "TamilDhoolProvider",
     "internalName": "TamilDhoolProvider",
-    "version": 41,
+    "version": 42,
     "types": [
       "TvSeries"
     ],
     "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
     "description": "Tamil Tv Serial/Shows Provider",
-    "fileSize": 53266,
+    "fileSize": 53393,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/TamilDhoolProvider.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 41,
+      "version": 42,
       "pluginClassName": "com.cncverse.TamilDhoolProviderPlugin",
       "name": "TamilDhoolProvider"
     },
@@ -1161,7 +1161,7 @@
       "https://www.tamildhool.tech"
     ],
     "pluginClassName": "com.cncverse.TamilDhoolProviderPlugin",
-    "manifestVersion": 41
+    "manifestVersion": 42
   },
   {
     "id": "QuickIPTV",
@@ -1195,17 +1195,17 @@
     "id": "RadioIndiaProvider",
     "name": "RadioIndiaProvider",
     "internalName": "RadioIndiaProvider",
-    "version": 34,
+    "version": 35,
     "types": [
       "Live"
     ],
     "iconUrl": "https://cdn.mytuner.mobi/static/ctr/icons/App_192x192/in.png",
     "description": "Radio India Provider",
-    "fileSize": 36277,
+    "fileSize": 36367,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/RadioIndiaProvider.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 34,
+      "version": 35,
       "pluginClassName": "com.cncverse.radioindia.RadioIndiaProviderPlugin",
       "name": "RadioIndiaProvider"
     },
@@ -1214,24 +1214,24 @@
       "https://www.radioindia.in"
     ],
     "pluginClassName": "com.cncverse.radioindia.RadioIndiaProviderPlugin",
-    "manifestVersion": 34
+    "manifestVersion": 35
   },
   {
     "id": "CineTvProvider",
     "name": "CineTvProvider",
     "internalName": "CineTvProvider",
-    "version": 36,
+    "version": 37,
     "types": [
       "Movie",
       "TvSeries"
     ],
     "iconUrl": "https://modapk.world/wp-content/uploads/2025/11/Et-90x90.png",
     "description": "Clone of Cinema, Memesapp , FilmTV etc",
-    "fileSize": 59963,
+    "fileSize": 60105,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/CineTvProvider.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 36,
+      "version": 37,
       "pluginClassName": "com.cncverse.CineTvPlugin",
       "name": "CineTvProvider"
     },
@@ -1240,23 +1240,23 @@
       "https://filmin.ajfysu.com"
     ],
     "pluginClassName": "com.cncverse.CineTvPlugin",
-    "manifestVersion": 36
+    "manifestVersion": 37
   },
   {
     "id": "EinthusanProvider",
     "name": "EinthusanProvider",
     "internalName": "EinthusanProvider",
-    "version": 38,
+    "version": 39,
     "types": [
       "Movie"
     ],
     "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
     "description": "Indian Multi-language HD Provider",
-    "fileSize": 40093,
+    "fileSize": 40185,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/EinthusanProvider.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 38,
+      "version": 39,
       "pluginClassName": "com.cncverse.EinthusanProviderPlugin",
       "name": "EinthusanProvider"
     },
@@ -1265,7 +1265,7 @@
       "https://einthusan.tv"
     ],
     "pluginClassName": "com.cncverse.EinthusanProviderPlugin",
-    "manifestVersion": 38
+    "manifestVersion": 39
   },
   {
     "id": "HDhub4u",
@@ -1301,18 +1301,18 @@
     "id": "Watch32",
     "name": "Watch32",
     "internalName": "Watch32",
-    "version": 36,
+    "version": 37,
     "types": [
       "Movie",
       "TvSeries"
     ],
     "iconUrl": "https://editorialge.com/wp-content/uploads/2023/07/Watch32..jpg",
     "description": "Watch32 is a Free Movies streaming site with over 10000 movies and TV-Series.",
-    "fileSize": 48158,
+    "fileSize": 48276,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Watch32.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 36,
+      "version": 37,
       "pluginClassName": "com.cncverse.Watch32Plugin",
       "name": "Watch32"
     },
@@ -1325,23 +1325,23 @@
       "https://www.youtube.com"
     ],
     "pluginClassName": "com.cncverse.Watch32Plugin",
-    "manifestVersion": 36
+    "manifestVersion": 37
   },
   {
     "id": "M3UPlaylistPlayerProvider",
     "name": "M3UPlaylistPlayerProvider",
     "internalName": "M3UPlaylistPlayerProvider",
-    "version": 20,
+    "version": 21,
     "types": [
       "Live"
     ],
     "iconUrl": "https://play-lh.googleusercontent.com/V4t4JeQV2Cu9u72hKuqOW5c0IfwcZuuVS1d9PF2uJsW3rlIq-aOMTrT5bABVGaAFTcM=w480-h960-rw",
     "description": "Add your own m3u playlists",
-    "fileSize": 65790,
+    "fileSize": 65907,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/M3UPlaylistPlayerProvider.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 20,
+      "version": 21,
       "pluginClassName": "com.cncverse.M3UPlaylistPlayer.M3UPlaylistPlayerPlugin",
       "name": "M3UPlaylistPlayerProvider"
     },
@@ -1349,13 +1349,13 @@
       "https://cncverse.pages.dev"
     ],
     "pluginClassName": "com.cncverse.M3UPlaylistPlayer.M3UPlaylistPlayerPlugin",
-    "manifestVersion": 20
+    "manifestVersion": 21
   },
   {
     "id": "Rtally",
     "name": "Rtally",
     "internalName": "Rtally",
-    "version": 53,
+    "version": 54,
     "types": [
       "Movie",
       "TvSeries",
@@ -1365,11 +1365,11 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
     "description": "Movie and TV Series provider",
-    "fileSize": 111273,
+    "fileSize": 111339,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Rtally.cs3",
     "manifest": {
       "requiresResources": false,
-      "version": 53,
+      "version": 54,
       "pluginClassName": "com.cncverse.RtallyPlugin",
       "name": "Rtally"
     },
@@ -1382,7 +1382,7 @@
       "https://gdxfiles.com"
     ],
     "pluginClassName": "com.cncverse.RtallyPlugin",
-    "manifestVersion": 53
+    "manifestVersion": 54
   },
   {
     "id": "EliteStreams",
