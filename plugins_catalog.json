@@ -115,7 +115,7 @@
     "id": "AnimePahe",
     "name": "AnimePahe (Fast Sub & Dub)",
     "internalName": "AnimePahe",
-    "version": 55,
+    "version": 56,
     "types": [
       "AnimeMovie",
       "Anime",
@@ -123,12 +123,12 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/animepahe.png",
     "description": "Animes (SUB/DUB)",
-    "fileSize": 202281,
+    "fileSize": 218884,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AnimePahe.cs3",
     "manifest": {
       "pluginClassName": "com.phisher98.AnimePaheProviderPlugin",
       "name": "AnimePahe",
-      "version": 55,
+      "version": 56,
       "requiresResources": false
     },
     "discoveredEndpoints": [
@@ -137,10 +137,10 @@
       "https://animepahe.pw",
       "https://api.ani.zip",
       "https://buymeacoffee.com",
-      "https://challenges.cloudflare.com"
+      "https://kwik.cx"
     ],
     "pluginClassName": "com.phisher98.AnimePaheProviderPlugin",
-    "manifestVersion": 55
+    "manifestVersion": 56
   },
   {
     "id": "JioTV",
@@ -186,7 +186,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/toonstream.png",
     "description": "ToonStream Multi Language",
-    "fileSize": 86783,
+    "fileSize": 109740,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Toonstream.cs3",
     "manifest": {
       "pluginClassName": "com.Toonstream.ToonstreamProvider",
@@ -497,7 +497,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
     "description": "High-speed HDhub4u scraper stream provider",
-    "fileSize": 116861,
+    "fileSize": 139714,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/HDhub4u.cs3",
     "manifest": {
       "pluginClassName": "com.hdhub4u.HDhub4uPlugin",
@@ -526,7 +526,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
     "description": "Includes PirateIPTV,Sports IPTV,Japanese IPTV,Sony IPTV",
-    "fileSize": 52178,
+    "fileSize": 75187,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/QuickIPTV.cs3",
     "manifest": {
       "pluginClassName": "com.phisher98.QuickIPTVPlugin",
@@ -676,7 +676,7 @@
     ],
     "iconUrl": "https://animedekho.tv/wp-content/uploads/2026/10/AnimeDekho-Logo.png",
     "description": "Includes AnimeDekho,OnePace(DUB,SUB) and HindiSubAnime",
-    "fileSize": 157026,
+    "fileSize": 179955,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AnimeDekhoProvider.cs3",
     "manifest": {
       "pluginClassName": "com.phisher98.AnimeDekhoPlugin",
@@ -762,7 +762,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
     "description": "Indian Multi-language 4K Provider",
-    "fileSize": 88278,
+    "fileSize": 111192,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/UHDmoviesProvider.cs3",
     "manifest": {
       "pluginClassName": "com.phisher98.UHDmoviesProviderPlugin",
@@ -792,7 +792,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/4KHDHUB-Bright-Logo.png",
     "description": "4K Movies Extension by HDHUB4U",
-    "fileSize": 100196,
+    "fileSize": 122295,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/FourKHDHub.cs3",
     "manifest": {
       "pluginClassName": "com.fourKHDHub.FourKHDHubProvider",
@@ -821,7 +821,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
     "description": "Sports Live Streams (FanCode)",
-    "fileSize": 52471,
+    "fileSize": 75721,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/PublicSportsIPTV.cs3",
     "manifest": {
       "pluginClassName": "com.PublicSportsIPTV.PublicSportsIPTVProvider",
@@ -850,7 +850,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
     "description": "Contains BollyZone",
-    "fileSize": 72193,
+    "fileSize": 94599,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Desicinemas.cs3",
     "manifest": {
       "pluginClassName": "com.Desicinemas.DesicinemasPlugin",
@@ -884,7 +884,7 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "description": "#1 best extension based on MultiAPI",
-    "fileSize": 2191979,
+    "fileSize": 2212753,
     "cs3DownloadUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/StreamPlay.cs3",
     "manifest": {
       "pluginClassName": "com.phisher98.StreamPlayPlugin",
