@@ -1,7 +1,7 @@
 [
     {
         "iconUrl": "https://anikototv.to/AnikotoTheme/assets/images/favicon.png",
-        "fileHash": "sha256-a498e7442810454ee3f1675de82fedd7028a4ec52fb5212a29d7870777d99c4d",
+        "fileHash": "sha256-65c261684d9b125f1ad26ff3084a4e53297fa5df6545cfddeb851afc16f4a903",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 66387,
@@ -22,7 +22,7 @@
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animesuge.cz&size=64",
-        "fileHash": "sha256-5082ff4cc3983534f957f3da7bdf4318ef1bf56bc328588f4603173fd954221f",
+        "fileHash": "sha256-877e57b8740a65709323c5caf7594cb7683e2fe215a4e3e02663d18f47527be9",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 61602,
@@ -43,7 +43,7 @@
     },
     {
         "iconUrl": "https://play-lh.googleusercontent.com/G9s84Cm1TDnKDX2P8nipS_s60cuCnYtjBRRLespF8nivjXmbV9tF1fY37clZhXMLaA",
-        "fileHash": "sha256-1def9109979dcfd7ac034ab8630bea2b6ffc24c106c81305b1128af7a5ba85e3",
+        "fileHash": "sha256-71ec2f1a925710b96ae8f5a95c0b1dc3b03548f0f156ff489d8c359b6bc34bde",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 104462,
@@ -66,7 +66,7 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-17cd4ba1f2ddbce8e5a412d2172dd63c25e124eb7d29f479d1d55d1a5bcb9bd4",
+        "fileHash": "sha256-4413369505a86e6433b0ad40accdce2f7183959b196212f6823fae75134afb07",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 88397,
@@ -87,7 +87,7 @@
     },
     {
         "iconUrl": "https://modapk.world/wp-content/uploads/2025/11/Et-90x90.png",
-        "fileHash": "sha256-d25aad835af72d71acf8ae4fdc0357d5d6875a11f11a207afea79cb49f9d865c",
+        "fileHash": "sha256-9ad9d49a99a3f6e21ac9f906913838806cc69196b27e59ca73b6653c51d22198",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 60105,
@@ -108,10 +108,10 @@
     },
     {
         "iconUrl": "https://cricfy.pro/wp-content/uploads/2024/11/cropped-cricfytv-2.png",
-        "fileHash": "sha256-c16cda1051737fc0c2682d59beecdc110ab5edd1c2878cc2fffae8d21e805a3e",
+        "fileHash": "sha256-23363afb89990930954922bdd672e6d7c8db33b457941728d5d91f95db6e8f5f",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 117797,
+        "fileSize": 117798,
         "status": 1,
         "language": "ta",
         "authors": [
@@ -120,7 +120,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 77,
+        "version": 78,
         "internalName": "CricifyProvider",
         "description": "Watch Live sports and TV channels",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/CricifyProvider.cs3",
@@ -128,7 +128,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=desi-serials.to&sz=64",
-        "fileHash": "sha256-c0423097802420e909b1440a22d2b90ca334aa8f3a1799e8637f69836f0aedfc",
+        "fileHash": "sha256-cad764f86f40913f741489e072584ee51d1fa5ab0e84c080b81567452b76d6a7",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 59458,
@@ -148,7 +148,7 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-340a11513fb586d6d603ed6976e28846830a7b6291bde86b5c50d6444f4873ee",
+        "fileHash": "sha256-4199dced7dd3e628bcbfdce6dafb10931f26755cab1849bc877e8ae04e455dc5",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 98985,
@@ -169,7 +169,7 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-2e83710cbcee116cf69da9f14c65e330aeda40166874c8fca0715a6de5115195",
+        "fileHash": "sha256-662e0eddc173c7abb3e201824777694e5729ab5eb9bc4c5e96eb7d20db85e01e",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 40185,
@@ -189,7 +189,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=goldenaudiobook.com/&sz=64",
-        "fileHash": "sha256-c18a36694978ed3a9e8224e9852cd5904a88c3bb3379d03f9bc4c1c6cbc66c9b",
+        "fileHash": "sha256-2e927301aba542980c0e178fb8d1e8c31ffce6344133911be2a06043606472a3",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 38107,
@@ -209,7 +209,7 @@
     },
     {
         "iconUrl": "https://images.dwncdn.net/images/t_app-icon-l/p/b0c9663c-0d61-4941-b12f-91c58c06189f/1137087733/hdo-box-logo",
-        "fileHash": "sha256-8f4e7762e05bb886379bbcb1f96b0abb0f247645e5cb0389c1eeeeec7e7ee505",
+        "fileHash": "sha256-2e0ed89e5a0028295c8928757b36564d644a721562118f4af67497280523af54",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 48351,
@@ -230,7 +230,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=rezka.ag&sz=64",
-        "fileHash": "sha256-10ee527b618c1f6bf18f216d30b03c16ad59110df10c63a82ecd820ae078cc70",
+        "fileHash": "sha256-3aa64460d5ea54fd85ca161d24bf7e778c72ebc3528c3b39bbd22a6bcd8e8c74",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 67026,
@@ -252,7 +252,7 @@
     },
     {
         "iconUrl": "https://librivox.org/wp-content/themes/librivox/images/librivox-logo.png",
-        "fileHash": "sha256-9922bfd162dc6194034b2b862eea833f77f3ff64788320a2b04c91ca084027ce",
+        "fileHash": "sha256-c43d7a28c5277fa8567f169e51ade64214da2836e6099ffae907b598650d9fc4",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 36253,
@@ -272,10 +272,10 @@
     },
     {
         "iconUrl": "https://play-lh.googleusercontent.com/V4t4JeQV2Cu9u72hKuqOW5c0IfwcZuuVS1d9PF2uJsW3rlIq-aOMTrT5bABVGaAFTcM=w480-h960-rw",
-        "fileHash": "sha256-ef6f757afd52eefaee35ded46e8a50f8ed8a69764bc69fc21de9e306859418c6",
+        "fileHash": "sha256-af318580196315ee4339d7c3516356819f3d68d32fd83d042804b1bb90d2cd26",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 65907,
+        "fileSize": 65759,
         "status": 1,
         "language": "en",
         "authors": [
@@ -284,7 +284,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 21,
+        "version": 22,
         "internalName": "M3UPlaylistPlayerProvider",
         "description": "Add your own m3u playlists",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/M3UPlaylistPlayerProvider.cs3",
@@ -292,7 +292,7 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-5bb5c7ddc4368bbf4fe3c5f7e1668ce6fabc8b628fa3536a4e460855b62c89db",
+        "fileHash": "sha256-975122e3b84bedeed920ca0d27ed809598159d8ed9c06d02c775acd5f5e79572",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 118796,
@@ -315,7 +315,7 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-fb8def39b0dab06d50a9f4600194bd44bef67f1630e3d220b994c420ac575721",
+        "fileHash": "sha256-c9fb0d69e276e35e980fca1b8f49101ca72de83b5a79940697a60c2a288cf42d",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 94904,
@@ -336,7 +336,7 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-48562cbafeac274433660bea3ed3cc0ad89f4293da0550da6ad2027093bfdf9b",
+        "fileHash": "sha256-a6f2e410e0c52f7349c74c8a093ecca7ddbc87a946901cdfea62baa17aa0fa4f",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 92434,
@@ -357,7 +357,7 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-84548568f7a58d835c4b1d553aa8a62de61103bea6f463dec87751bd07ec872b",
+        "fileHash": "sha256-310e7975cf61c30fe90a52786d6f090906904ae3945ca1f4bc13d8ca75b663da",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 64038,
@@ -380,7 +380,7 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-e1e24f90be43c38f6db9eeb42646e22096d4032ca0846e9e827df52ad1a54dd3",
+        "fileHash": "sha256-06afcdeef9f2f24b50f3f512e63cb48ca0ba093c0347a6c9a305e43a20b8bc53",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 40232,
@@ -400,10 +400,10 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-7c7cd2c0f345e4fccd8b2c16aa69a66e8e1011483bc0879594790ef91d601e53",
+        "fileHash": "sha256-c3f284523ef59b01c148abef042d429ecbece46b65f9cc28a130b8d2ca0a27b1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 118943,
+        "fileSize": 118992,
         "status": 0,
         "language": "ta",
         "authors": [
@@ -412,7 +412,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 48,
+        "version": 49,
         "internalName": "PlayZTVProvider",
         "description": "Watch Live TV channels & sports via PlayZTV",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/PlayZTVProvider.cs3",
@@ -420,7 +420,7 @@
     },
     {
         "iconUrl": "https://cdn.mytuner.mobi/static/ctr/icons/App_192x192/in.png",
-        "fileHash": "sha256-e0a165e954dbd5661c7b6df0adcdea19efc5d12d774b3f961c9912827ebc3b49",
+        "fileHash": "sha256-f5f421bdb9a04516c8a7887933387df9426688b2720ad5138d643f71f75ebd42",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 36367,
@@ -440,7 +440,7 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-b1f8bfd483a1e0e98bbb4d945ccc2ef9e25ba716c45b7842b8ba85aac985c499",
+        "fileHash": "sha256-3a4578737d7165cdc1bb07b3ea547bd050c9c72490c8ba686320dfadff4f0c39",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 111339,
@@ -464,10 +464,10 @@
     },
     {
         "iconUrl": "https://sportzxlive.com/wp-content/uploads/2026/04/cropped-logo-1-2048x1611-1-1024x806.png",
-        "fileHash": "sha256-c767388c3d2e69798ff4de44c074c81d500df0afa1cd09184c5a251727d5b77a",
+        "fileHash": "sha256-cef2be4db2954874050d99fc56ea218ea49c7813ba72eb5974866b6a1081cbf6",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 123833,
+        "fileSize": 123793,
         "status": 0,
         "language": "ta",
         "authors": [
@@ -476,7 +476,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 32,
+        "version": 33,
         "internalName": "SportzxProvider",
         "description": "Watch Live Sports Events via SportzX",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/SportzxProvider.cs3",
@@ -484,7 +484,7 @@
     },
     {
         "iconUrl": "https://play-lh.googleusercontent.com/7geBQBtW_yN70BU81Oi2SoZvYsj5VoYrI4FmUNdqWQlchtExJb7XE_1BQysGzgJ6mBU",
-        "fileHash": "sha256-67a7165c9f592a7d87332ef6386ab7aa3982f3c52e9ab62f474b31e8b65ba1e0",
+        "fileHash": "sha256-f85fc6b2bd01dfba27d0e36386198b3909de4422de1c98f4d967164517512bdc",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 65096,
@@ -506,7 +506,7 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-5047c4859d39a367451fd8835a995eb036d98ad4b8894d98832ee53233717731",
+        "fileHash": "sha256-d5e6735bfb6983e07d833c61caaf0c89fd4e7a7a5e6d4d702a180fb4be7dac75",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 53392,
@@ -526,7 +526,7 @@
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=tamilian.io&sz=64",
-        "fileHash": "sha256-8b258501b38feb1cdee85869b7a5202486227dbda695be00ca544c8f6375c607",
+        "fileHash": "sha256-3bc9bf5b3d68054d95665aeeb9d14a5411b8e4cd7310bfa70bdf3d36a477e97c",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 38314,
@@ -546,7 +546,7 @@
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
-        "fileHash": "sha256-68c64ba026e12ccffbc2829bb4d140681715dc5af780bc52f7b597fe602b947b",
+        "fileHash": "sha256-e87dec9c58ed2856d43b6a0b196f5a032635f9ebced7519b800bee4343c074a3",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 35499,
@@ -566,7 +566,7 @@
     },
     {
         "iconUrl": "https://editorialge.com/wp-content/uploads/2023/07/Watch32..jpg",
-        "fileHash": "sha256-b3b6ecfee3d81dbd7b73bb6c8c45e1e3a540fcc318ecd1f386370d737aa93cc1",
+        "fileHash": "sha256-ed7cb88e099e9b88f057c580a5cd1d9380c78ac3cacc55af75e95355b5ec8ce6",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 48275,
@@ -587,7 +587,7 @@
     },
     {
         "iconUrl": "https://play-lh.googleusercontent.com/zVq_wAus2snoO-ggyI6IomlsCzfybAozQOGYpBrv71r1--rOYOYWsr_N7DWwVp9t7ro=s248-rw",
-        "fileHash": "sha256-e1447e364c454803b1f0f06051fbda6492879fe5f81957bdfbcec7a1f04bde82",
+        "fileHash": "sha256-3a18fcc8851e29e7e7ec2c3bafe75c6ec79adcd4f91c9b68f6f82f02733b0110",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "fileSize": 63371,
@@ -625,7 +625,7 @@
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Netmirror.cs3",
         "internalName": "Netmirror",
         "status": 1,
-        "fileHash": "sha256-2f8c0c5988583534632cf55529e7d8ce641d0e459c8b7021c7fd3a7bba2a651c",
+        "fileHash": "sha256-dde26c9950e5c2ad5af0610d21596e9815210bfa2a1e6e659b5fcad534d34fd6",
         "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages"
     },
     {
@@ -688,7 +688,7 @@
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/HDhub4u.cs3",
         "internalName": "HDhub4u",
         "status": 1,
-        "fileHash": "sha256-e4b5bf42d14d872a31a7e70ad71dd3c25951a9f09dd951535de9c57d4bed6efc"
+        "fileHash": "sha256-9e8e07411e80c48a63354c6d492ac30806cc1bc3a69cda8ba294505c6196e7a3"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer/master/assets/logos/cinematic_gold_logo_1787579512053.jpg",
@@ -708,7 +708,7 @@
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/UHDmoviesProvider.cs3",
         "internalName": "UHDmoviesProvider",
         "status": 1,
-        "fileHash": "sha256-cd9ebf101b29698dd097c716dfb1351e8cee7dd014fd1bbe0f65083e08f0772f",
+        "fileHash": "sha256-c1bf05a8fc411bc284790baf85edbb0eba5b2f07c128ba9c5e69e432dc401384",
         "description": "Indian Multi-language 4K Provider"
     },
     {
@@ -729,7 +729,7 @@
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Desicinemas.cs3",
         "internalName": "Desicinemas",
         "status": 1,
-        "fileHash": "sha256-5dfc59506b53a0bf350f2a083dc7857d10f369353a605068840880af34eada62",
+        "fileHash": "sha256-8d619c7c7ed7727b12ae82d4fc44dc8c70b11f373e63aaa517a156a902e80f88",
         "description": "Contains BollyZone"
     },
     {
@@ -749,7 +749,7 @@
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/PublicSportsIPTV.cs3",
         "internalName": "PublicSportsIPTV",
         "status": 1,
-        "fileHash": "sha256-b872a52769dc5e56a121ca1295158925d756374ec19ff6a8defcc3d938e13d79",
+        "fileHash": "sha256-d7196ebb1779548ff64654f147b1a94f7c4b36e113df8b0cae6ca77974e90873",
         "description": "Sports Live Streams (FanCode)"
     },
     {
@@ -762,7 +762,7 @@
         ],
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AnimeWorldIndia.cs3",
-        "fileHash": "sha256-407b803d968d71aa85a9ef485825cf3d03d7d058daacb01e8c2c60a6751f54a9",
+        "fileHash": "sha256-3208b9f65bdceb7c33758db060eafabbfecc3104de7fd2b90ba7166f0d43ea39",
         "fileSize": 70329,
         "status": 1,
         "types": [
@@ -781,7 +781,7 @@
         ],
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/EliteStreams.cs3",
-        "fileHash": "sha256-fe6699e0ed9559d29b4aa83ad9023780be02af2954a65c63b2551d4a857e6034",
+        "fileHash": "sha256-501e40fbb6cc4b2eeb98e4e5ec436025f1db0fdb51f12dfd5b22cc34ee931751",
         "fileSize": 63240,
         "status": 1,
         "types": [
@@ -800,7 +800,7 @@
         ],
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AllOtt.cs3",
-        "fileHash": "sha256-c3d837813eaf71b46c11d13fed1e9a98464bf9397be36fcc3a6fa19d5177c158",
+        "fileHash": "sha256-2b54e6005fe1ec48e0136d80a9ebedb4f1340a7a798cefedec32af89a520b5bf",
         "fileSize": 156709,
         "status": 1,
         "types": [
@@ -819,7 +819,7 @@
         ],
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/JioTV.cs3",
-        "fileHash": "sha256-8487cc2bd7e132b8fa09d6dd98a93f97d2e5ecc0d631649a457f0f3de2cc053c",
+        "fileHash": "sha256-a2a0ac999b5fe734ecdd3a06aca6bcbde8961f585c94ba55b59b0ee0b7ea3460",
         "fileSize": 108535,
         "status": 1,
         "types": [
@@ -838,7 +838,7 @@
         ],
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/NoirX.cs3",
-        "fileHash": "sha256-80422fb02b34ecca1deca8b413080066d1d178c06221c68e4f150894e2fe6f61",
+        "fileHash": "sha256-334f10937d5aad3e99443f6dada1e9fb5d9d6d1e79e8ea741805f869825ecede",
         "fileSize": 77454,
         "status": 1,
         "types": [
@@ -896,7 +896,7 @@
         ],
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/FourKHDHub.cs3",
-        "fileHash": "sha256-13c5f9130770c5976eae3a6d186966990e45108e0e8724e95dfab8ebc3214044",
+        "fileHash": "sha256-1defbb101419e9f6b97951bc56e6de57cd00e147f70839069d3a9f474f2c3daf",
         "fileSize": 139958,
         "status": 1,
         "tvTypes": [
@@ -942,7 +942,7 @@
         ],
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/QuickIPTV.cs3",
-        "fileHash": "sha256-d2ebacb6c6235cbe9bf0cee4727f6dbd8ea319973795d5e7886d45e46e262104",
+        "fileHash": "sha256-ac2a3321f7e2c79551245ce77f55c8f4b4a6ec103b2a9b47f3dc60d4ebc51ac2",
         "fileSize": 92612,
         "status": 1,
         "tvTypes": [
@@ -963,7 +963,7 @@
         ],
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/Toonstream.cs3",
-        "fileHash": "sha256-ac07c69abe394da2e8ae52fe338862ef44cd607dcafffcafb2f431f52b13e0ed",
+        "fileHash": "sha256-ccca37a065d1d3effee8ee1071bc2b5b9af4b7da2616dcacbdc16ccda07e813e",
         "fileSize": 125818,
         "status": 1,
         "tvTypes": [
@@ -988,7 +988,7 @@
         ],
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AnimeDekhoProvider.cs3",
-        "fileHash": "sha256-2c8ca5fbbb85958c7b1119b0ec7062596ebcb622514ab705932de1fb4019cbce",
+        "fileHash": "sha256-ccf8bf2c6ef73b9826e9530be2227a7d392a4e34061be5cdd83d8ce89b4c7c23",
         "fileSize": 197142,
         "status": 1,
         "tvTypes": [
@@ -1003,7 +1003,7 @@
     {
         "name": "AnimePahe (Fast Sub & Dub)",
         "internalName": "AnimePahe",
-        "version": 59,
+        "version": 62,
         "description": "Animes (SUB/DUB)",
         "authors": [
             "Yogesh",
@@ -1012,8 +1012,8 @@
         ],
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/AnimePahe.cs3",
-        "fileHash": "sha256-392bcc875bbf6c35f52fb1360b09076aa54498ccd88567cd0be6497744c0774f",
-        "fileSize": 232727,
+        "fileHash": "sha256-06a03fd5acffb02290a7439b6bd0b9410ce43a37439de22b1a7b8884b3c3e53a",
+        "fileSize": 247498,
         "status": 1,
         "tvTypes": [
             "AnimeMovie",
@@ -1036,7 +1036,7 @@
         ],
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/StreamPlay.cs3",
-        "fileHash": "sha256-7c958c5b7761b4a5763e6a75c566379d9f4e12eec95d16cf6b872796bfc5567d",
+        "fileHash": "sha256-50fbe4c5af4843248ecf02d8a6861e7476501546e1c6143562fac5cbde16d9c2",
         "fileSize": 2237007,
         "status": 1,
         "tvTypes": [
@@ -1063,7 +1063,7 @@
         ],
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/SmartTube.cs3",
-        "fileHash": "sha256-9ba5ebfc26cd7f55c5ee958afec1dc1a8c05b80fe89d3f5252d835ac22a4c367",
+        "fileHash": "sha256-5289522e359324567b277e63a280cf44692425745bf68f789df2047a085d5f3c",
         "fileSize": 46373,
         "status": 1,
         "tvTypes": [
@@ -1079,11 +1079,11 @@
     {
         "name": "SKTechProvider",
         "internalName": "SKTechProvider",
-        "version": 64,
+        "version": 65,
         "url": "https://raw.githubusercontent.com/shahrukh-hack/yogesh-streamer-plugins/builds/SKTechProvider.cs3",
         "repositoryUrl": "https://github.com/shahrukh-hack/yogesh-streamer-plugins",
-        "fileSize": 125944,
-        "fileHash": "sha256-77c79a34b99e3889bcf080a53580b4d2941e374e0af96c999223a459a8ad12c2",
+        "fileSize": 125972,
+        "fileHash": "sha256-84d88781f3afacb86fecc8aec83161499e6ed52383902149ca45097a56b68ce5",
         "iconUrl": "https://sktechtv.org/wp-content/uploads/2026/05/sktechtv.webp",
         "apiVersion": 1,
         "status": 1,
